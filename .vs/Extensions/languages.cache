@@ -1,0 +1,1246 @@
+<Cache xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.datacontract.org/2004/07/TMLanguage">
+  <FileExtensionCache xmlns:d2p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays">
+    <d2p1:KeyValueOfstringstring>
+      <d2p1:Key>.CMakeCache.txt</d2p1:Key>
+      <d2p1:Value>C:\USERS\OWNER-PC\DOWNLOADS\COMMON7\IDE\EXTENSIONS\3WQGG22F.MQS\Starterkit\Extensions\cmake\syntaxes\CMake Cache.tmLanguage</d2p1:Value>
+    </d2p1:KeyValueOfstringstring>
+    <d2p1:KeyValueOfstringstring>
+      <d2p1:Key>.CMakeLists.txt</d2p1:Key>
+      <d2p1:Value>C:\USERS\OWNER-PC\DOWNLOADS\COMMON7\IDE\EXTENSIONS\3WQGG22F.MQS\Starterkit\Extensions\cmake\syntaxes\CMake Listfile.tmLanguage</d2p1:Value>
+    </d2p1:KeyValueOfstringstring>
+    <d2p1:KeyValueOfstringstring>
+      <d2p1:Key>.cmake</d2p1:Key>
+      <d2p1:Value>C:\USERS\OWNER-PC\DOWNLOADS\COMMON7\IDE\EXTENSIONS\3WQGG22F.MQS\Starterkit\Extensions\cmake\syntaxes\CMake Listfile.tmLanguage</d2p1:Value>
+    </d2p1:KeyValueOfstringstring>
+    <d2p1:KeyValueOfstringstring>
+      <d2p1:Key>.go</d2p1:Key>
+      <d2p1:Value>C:\USERS\OWNER-PC\DOWNLOADS\COMMON7\IDE\EXTENSIONS\3WQGG22F.MQS\Starterkit\Extensions\go\syntaxes\Go.tmLanguage</d2p1:Value>
+    </d2p1:KeyValueOfstringstring>
+    <d2p1:KeyValueOfstringstring>
+      <d2p1:Key>.groovy</d2p1:Key>
+      <d2p1:Value>C:\USERS\OWNER-PC\DOWNLOADS\COMMON7\IDE\EXTENSIONS\3WQGG22F.MQS\Starterkit\Extensions\groovy\syntaxes\Groovy.tmLanguage</d2p1:Value>
+    </d2p1:KeyValueOfstringstring>
+    <d2p1:KeyValueOfstringstring>
+      <d2p1:Key>.gvy</d2p1:Key>
+      <d2p1:Value>C:\USERS\OWNER-PC\DOWNLOADS\COMMON7\IDE\EXTENSIONS\3WQGG22F.MQS\Starterkit\Extensions\groovy\syntaxes\Groovy.tmLanguage</d2p1:Value>
+    </d2p1:KeyValueOfstringstring>
+    <d2p1:KeyValueOfstringstring>
+      <d2p1:Key>.jsp</d2p1:Key>
+      <d2p1:Value>C:\USERS\OWNER-PC\DOWNLOADS\COMMON7\IDE\EXTENSIONS\3WQGG22F.MQS\Starterkit\Extensions\java\syntaxes\Java Server Pages (JSP).tmLanguage</d2p1:Value>
+    </d2p1:KeyValueOfstringstring>
+    <d2p1:KeyValueOfstringstring>
+      <d2p1:Key>.jspf</d2p1:Key>
+      <d2p1:Value>C:\USERS\OWNER-PC\DOWNLOADS\COMMON7\IDE\EXTENSIONS\3WQGG22F.MQS\Starterkit\Extensions\java\syntaxes\Java Server Pages (JSP).tmLanguage</d2p1:Value>
+    </d2p1:KeyValueOfstringstring>
+    <d2p1:KeyValueOfstringstring>
+      <d2p1:Key>.tag</d2p1:Key>
+      <d2p1:Value>C:\USERS\OWNER-PC\DOWNLOADS\COMMON7\IDE\EXTENSIONS\3WQGG22F.MQS\Starterkit\Extensions\java\syntaxes\Java Server Pages (JSP).tmLanguage</d2p1:Value>
+    </d2p1:KeyValueOfstringstring>
+    <d2p1:KeyValueOfstringstring>
+      <d2p1:Key>.java</d2p1:Key>
+      <d2p1:Value>C:\USERS\OWNER-PC\DOWNLOADS\COMMON7\IDE\EXTENSIONS\3WQGG22F.MQS\Starterkit\Extensions\java\syntaxes\Java.tmLanguage</d2p1:Value>
+    </d2p1:KeyValueOfstringstring>
+    <d2p1:KeyValueOfstringstring>
+      <d2p1:Key>.bsh</d2p1:Key>
+      <d2p1:Value>C:\USERS\OWNER-PC\DOWNLOADS\COMMON7\IDE\EXTENSIONS\3WQGG22F.MQS\Starterkit\Extensions\java\syntaxes\Java.tmLanguage</d2p1:Value>
+    </d2p1:KeyValueOfstringstring>
+    <d2p1:KeyValueOfstringstring>
+      <d2p1:Key>.properties</d2p1:Key>
+      <d2p1:Value>C:\USERS\OWNER-PC\DOWNLOADS\COMMON7\IDE\EXTENSIONS\3WQGG22F.MQS\Starterkit\Extensions\java\syntaxes\JavaProperties.tmLanguage</d2p1:Value>
+    </d2p1:KeyValueOfstringstring>
+    <d2p1:KeyValueOfstringstring>
+      <d2p1:Key>.lua</d2p1:Key>
+      <d2p1:Value>C:\USERS\OWNER-PC\DOWNLOADS\COMMON7\IDE\EXTENSIONS\3WQGG22F.MQS\Starterkit\Extensions\lua\syntaxes\Lua.plist</d2p1:Value>
+    </d2p1:KeyValueOfstringstring>
+    <d2p1:KeyValueOfstringstring>
+      <d2p1:Key>.Makefile</d2p1:Key>
+      <d2p1:Value>C:\USERS\OWNER-PC\DOWNLOADS\COMMON7\IDE\EXTENSIONS\3WQGG22F.MQS\Starterkit\Extensions\make\syntaxes\Makefile.plist</d2p1:Value>
+    </d2p1:KeyValueOfstringstring>
+    <d2p1:KeyValueOfstringstring>
+      <d2p1:Key>.makefile</d2p1:Key>
+      <d2p1:Value>C:\USERS\OWNER-PC\DOWNLOADS\COMMON7\IDE\EXTENSIONS\3WQGG22F.MQS\Starterkit\Extensions\make\syntaxes\Makefile.plist</d2p1:Value>
+    </d2p1:KeyValueOfstringstring>
+    <d2p1:KeyValueOfstringstring>
+      <d2p1:Key>.GNUmakefile</d2p1:Key>
+      <d2p1:Value>C:\USERS\OWNER-PC\DOWNLOADS\COMMON7\IDE\EXTENSIONS\3WQGG22F.MQS\Starterkit\Extensions\make\syntaxes\Makefile.plist</d2p1:Value>
+    </d2p1:KeyValueOfstringstring>
+    <d2p1:KeyValueOfstringstring>
+      <d2p1:Key>.OCamlMakefile</d2p1:Key>
+      <d2p1:Value>C:\USERS\OWNER-PC\DOWNLOADS\COMMON7\IDE\EXTENSIONS\3WQGG22F.MQS\Starterkit\Extensions\make\syntaxes\Makefile.plist</d2p1:Value>
+    </d2p1:KeyValueOfstringstring>
+    <d2p1:KeyValueOfstringstring>
+      <d2p1:Key>.md</d2p1:Key>
+      <d2p1:Value>C:\USERS\OWNER-PC\DOWNLOADS\COMMON7\IDE\EXTENSIONS\3WQGG22F.MQS\Starterkit\Extensions\markdown\syntaxes\Markdown.tmLanguage</d2p1:Value>
+    </d2p1:KeyValueOfstringstring>
+    <d2p1:KeyValueOfstringstring>
+      <d2p1:Key>.mdown</d2p1:Key>
+      <d2p1:Value>C:\USERS\OWNER-PC\DOWNLOADS\COMMON7\IDE\EXTENSIONS\3WQGG22F.MQS\Starterkit\Extensions\markdown\syntaxes\Markdown.tmLanguage</d2p1:Value>
+    </d2p1:KeyValueOfstringstring>
+    <d2p1:KeyValueOfstringstring>
+      <d2p1:Key>.markdown</d2p1:Key>
+      <d2p1:Value>C:\USERS\OWNER-PC\DOWNLOADS\COMMON7\IDE\EXTENSIONS\3WQGG22F.MQS\Starterkit\Extensions\markdown\syntaxes\Markdown.tmLanguage</d2p1:Value>
+    </d2p1:KeyValueOfstringstring>
+    <d2p1:KeyValueOfstringstring>
+      <d2p1:Key>.markdn</d2p1:Key>
+      <d2p1:Value>C:\USERS\OWNER-PC\DOWNLOADS\COMMON7\IDE\EXTENSIONS\3WQGG22F.MQS\Starterkit\Extensions\markdown\syntaxes\Markdown.tmLanguage</d2p1:Value>
+    </d2p1:KeyValueOfstringstring>
+    <d2p1:KeyValueOfstringstring>
+      <d2p1:Key>.pl</d2p1:Key>
+      <d2p1:Value>C:\USERS\OWNER-PC\DOWNLOADS\COMMON7\IDE\EXTENSIONS\3WQGG22F.MQS\Starterkit\Extensions\perl\syntaxes\Perl.tmLanguage</d2p1:Value>
+    </d2p1:KeyValueOfstringstring>
+    <d2p1:KeyValueOfstringstring>
+      <d2p1:Key>.pm</d2p1:Key>
+      <d2p1:Value>C:\USERS\OWNER-PC\DOWNLOADS\COMMON7\IDE\EXTENSIONS\3WQGG22F.MQS\Starterkit\Extensions\perl\syntaxes\Perl.tmLanguage</d2p1:Value>
+    </d2p1:KeyValueOfstringstring>
+    <d2p1:KeyValueOfstringstring>
+      <d2p1:Key>.pod</d2p1:Key>
+      <d2p1:Value>C:\USERS\OWNER-PC\DOWNLOADS\COMMON7\IDE\EXTENSIONS\3WQGG22F.MQS\Starterkit\Extensions\perl\syntaxes\Perl.tmLanguage</d2p1:Value>
+    </d2p1:KeyValueOfstringstring>
+    <d2p1:KeyValueOfstringstring>
+      <d2p1:Key>.t</d2p1:Key>
+      <d2p1:Value>C:\USERS\OWNER-PC\DOWNLOADS\COMMON7\IDE\EXTENSIONS\3WQGG22F.MQS\Starterkit\Extensions\perl\syntaxes\Perl.tmLanguage</d2p1:Value>
+    </d2p1:KeyValueOfstringstring>
+    <d2p1:KeyValueOfstringstring>
+      <d2p1:Key>.PL</d2p1:Key>
+      <d2p1:Value>C:\USERS\OWNER-PC\DOWNLOADS\COMMON7\IDE\EXTENSIONS\3WQGG22F.MQS\Starterkit\Extensions\perl\syntaxes\Perl.tmLanguage</d2p1:Value>
+    </d2p1:KeyValueOfstringstring>
+    <d2p1:KeyValueOfstringstring>
+      <d2p1:Key>.R</d2p1:Key>
+      <d2p1:Value>C:\USERS\OWNER-PC\DOWNLOADS\COMMON7\IDE\EXTENSIONS\3WQGG22F.MQS\Starterkit\Extensions\r\syntaxes\R.plist</d2p1:Value>
+    </d2p1:KeyValueOfstringstring>
+    <d2p1:KeyValueOfstringstring>
+      <d2p1:Key>.r</d2p1:Key>
+      <d2p1:Value>C:\USERS\OWNER-PC\DOWNLOADS\COMMON7\IDE\EXTENSIONS\3WQGG22F.MQS\Starterkit\Extensions\r\syntaxes\R.plist</d2p1:Value>
+    </d2p1:KeyValueOfstringstring>
+    <d2p1:KeyValueOfstringstring>
+      <d2p1:Key>.s</d2p1:Key>
+      <d2p1:Value>C:\USERS\OWNER-PC\DOWNLOADS\COMMON7\IDE\EXTENSIONS\3WQGG22F.MQS\Starterkit\Extensions\r\syntaxes\R.plist</d2p1:Value>
+    </d2p1:KeyValueOfstringstring>
+    <d2p1:KeyValueOfstringstring>
+      <d2p1:Key>.S</d2p1:Key>
+      <d2p1:Value>C:\USERS\OWNER-PC\DOWNLOADS\COMMON7\IDE\EXTENSIONS\3WQGG22F.MQS\Starterkit\Extensions\r\syntaxes\R.plist</d2p1:Value>
+    </d2p1:KeyValueOfstringstring>
+    <d2p1:KeyValueOfstringstring>
+      <d2p1:Key>.Rprofile</d2p1:Key>
+      <d2p1:Value>C:\USERS\OWNER-PC\DOWNLOADS\COMMON7\IDE\EXTENSIONS\3WQGG22F.MQS\Starterkit\Extensions\r\syntaxes\R.plist</d2p1:Value>
+    </d2p1:KeyValueOfstringstring>
+    <d2p1:KeyValueOfstringstring>
+      <d2p1:Key>.rd</d2p1:Key>
+      <d2p1:Value>C:\USERS\OWNER-PC\DOWNLOADS\COMMON7\IDE\EXTENSIONS\3WQGG22F.MQS\Starterkit\Extensions\r\syntaxes\Rd (R Documentation).tmLanguage</d2p1:Value>
+    </d2p1:KeyValueOfstringstring>
+    <d2p1:KeyValueOfstringstring>
+      <d2p1:Key>.Rd</d2p1:Key>
+      <d2p1:Value>C:\USERS\OWNER-PC\DOWNLOADS\COMMON7\IDE\EXTENSIONS\3WQGG22F.MQS\Starterkit\Extensions\r\syntaxes\Rd (R Documentation).tmLanguage</d2p1:Value>
+    </d2p1:KeyValueOfstringstring>
+    <d2p1:KeyValueOfstringstring>
+      <d2p1:Key>.rb</d2p1:Key>
+      <d2p1:Value>C:\USERS\OWNER-PC\DOWNLOADS\COMMON7\IDE\EXTENSIONS\3WQGG22F.MQS\Starterkit\Extensions\ruby\syntaxes\Ruby.tmLanguage</d2p1:Value>
+    </d2p1:KeyValueOfstringstring>
+    <d2p1:KeyValueOfstringstring>
+      <d2p1:Key>.rbx</d2p1:Key>
+      <d2p1:Value>C:\USERS\OWNER-PC\DOWNLOADS\COMMON7\IDE\EXTENSIONS\3WQGG22F.MQS\Starterkit\Extensions\ruby\syntaxes\Ruby.tmLanguage</d2p1:Value>
+    </d2p1:KeyValueOfstringstring>
+    <d2p1:KeyValueOfstringstring>
+      <d2p1:Key>.rjs</d2p1:Key>
+      <d2p1:Value>C:\USERS\OWNER-PC\DOWNLOADS\COMMON7\IDE\EXTENSIONS\3WQGG22F.MQS\Starterkit\Extensions\ruby\syntaxes\Ruby.tmLanguage</d2p1:Value>
+    </d2p1:KeyValueOfstringstring>
+    <d2p1:KeyValueOfstringstring>
+      <d2p1:Key>.Rakefile</d2p1:Key>
+      <d2p1:Value>C:\USERS\OWNER-PC\DOWNLOADS\COMMON7\IDE\EXTENSIONS\3WQGG22F.MQS\Starterkit\Extensions\ruby\syntaxes\Ruby.tmLanguage</d2p1:Value>
+    </d2p1:KeyValueOfstringstring>
+    <d2p1:KeyValueOfstringstring>
+      <d2p1:Key>.rake</d2p1:Key>
+      <d2p1:Value>C:\USERS\OWNER-PC\DOWNLOADS\COMMON7\IDE\EXTENSIONS\3WQGG22F.MQS\Starterkit\Extensions\ruby\syntaxes\Ruby.tmLanguage</d2p1:Value>
+    </d2p1:KeyValueOfstringstring>
+    <d2p1:KeyValueOfstringstring>
+      <d2p1:Key>.cgi</d2p1:Key>
+      <d2p1:Value>C:\USERS\OWNER-PC\DOWNLOADS\COMMON7\IDE\EXTENSIONS\3WQGG22F.MQS\Starterkit\Extensions\ruby\syntaxes\Ruby.tmLanguage</d2p1:Value>
+    </d2p1:KeyValueOfstringstring>
+    <d2p1:KeyValueOfstringstring>
+      <d2p1:Key>.fcgi</d2p1:Key>
+      <d2p1:Value>C:\USERS\OWNER-PC\DOWNLOADS\COMMON7\IDE\EXTENSIONS\3WQGG22F.MQS\Starterkit\Extensions\ruby\syntaxes\Ruby.tmLanguage</d2p1:Value>
+    </d2p1:KeyValueOfstringstring>
+    <d2p1:KeyValueOfstringstring>
+      <d2p1:Key>.gemspec</d2p1:Key>
+      <d2p1:Value>C:\USERS\OWNER-PC\DOWNLOADS\COMMON7\IDE\EXTENSIONS\3WQGG22F.MQS\Starterkit\Extensions\ruby\syntaxes\Ruby.tmLanguage</d2p1:Value>
+    </d2p1:KeyValueOfstringstring>
+    <d2p1:KeyValueOfstringstring>
+      <d2p1:Key>.irbrc</d2p1:Key>
+      <d2p1:Value>C:\USERS\OWNER-PC\DOWNLOADS\COMMON7\IDE\EXTENSIONS\3WQGG22F.MQS\Starterkit\Extensions\ruby\syntaxes\Ruby.tmLanguage</d2p1:Value>
+    </d2p1:KeyValueOfstringstring>
+    <d2p1:KeyValueOfstringstring>
+      <d2p1:Key>.capfile</d2p1:Key>
+      <d2p1:Value>C:\USERS\OWNER-PC\DOWNLOADS\COMMON7\IDE\EXTENSIONS\3WQGG22F.MQS\Starterkit\Extensions\ruby\syntaxes\Ruby.tmLanguage</d2p1:Value>
+    </d2p1:KeyValueOfstringstring>
+    <d2p1:KeyValueOfstringstring>
+      <d2p1:Key>.Gemfile</d2p1:Key>
+      <d2p1:Value>C:\USERS\OWNER-PC\DOWNLOADS\COMMON7\IDE\EXTENSIONS\3WQGG22F.MQS\Starterkit\Extensions\ruby\syntaxes\Ruby.tmLanguage</d2p1:Value>
+    </d2p1:KeyValueOfstringstring>
+    <d2p1:KeyValueOfstringstring>
+      <d2p1:Key>.sh</d2p1:Key>
+      <d2p1:Value>C:\USERS\OWNER-PC\DOWNLOADS\COMMON7\IDE\EXTENSIONS\3WQGG22F.MQS\Starterkit\Extensions\shellscript\syntaxes\Shell-Unix-Bash.tmLanguage</d2p1:Value>
+    </d2p1:KeyValueOfstringstring>
+    <d2p1:KeyValueOfstringstring>
+      <d2p1:Key>.bash</d2p1:Key>
+      <d2p1:Value>C:\USERS\OWNER-PC\DOWNLOADS\COMMON7\IDE\EXTENSIONS\3WQGG22F.MQS\Starterkit\Extensions\shellscript\syntaxes\Shell-Unix-Bash.tmLanguage</d2p1:Value>
+    </d2p1:KeyValueOfstringstring>
+    <d2p1:KeyValueOfstringstring>
+      <d2p1:Key>.zsh</d2p1:Key>
+      <d2p1:Value>C:\USERS\OWNER-PC\DOWNLOADS\COMMON7\IDE\EXTENSIONS\3WQGG22F.MQS\Starterkit\Extensions\shellscript\syntaxes\Shell-Unix-Bash.tmLanguage</d2p1:Value>
+    </d2p1:KeyValueOfstringstring>
+    <d2p1:KeyValueOfstringstring>
+      <d2p1:Key>.bashrc</d2p1:Key>
+      <d2p1:Value>C:\USERS\OWNER-PC\DOWNLOADS\COMMON7\IDE\EXTENSIONS\3WQGG22F.MQS\Starterkit\Extensions\shellscript\syntaxes\Shell-Unix-Bash.tmLanguage</d2p1:Value>
+    </d2p1:KeyValueOfstringstring>
+    <d2p1:KeyValueOfstringstring>
+      <d2p1:Key>.bash_profile</d2p1:Key>
+      <d2p1:Value>C:\USERS\OWNER-PC\DOWNLOADS\COMMON7\IDE\EXTENSIONS\3WQGG22F.MQS\Starterkit\Extensions\shellscript\syntaxes\Shell-Unix-Bash.tmLanguage</d2p1:Value>
+    </d2p1:KeyValueOfstringstring>
+    <d2p1:KeyValueOfstringstring>
+      <d2p1:Key>.bash_login</d2p1:Key>
+      <d2p1:Value>C:\USERS\OWNER-PC\DOWNLOADS\COMMON7\IDE\EXTENSIONS\3WQGG22F.MQS\Starterkit\Extensions\shellscript\syntaxes\Shell-Unix-Bash.tmLanguage</d2p1:Value>
+    </d2p1:KeyValueOfstringstring>
+    <d2p1:KeyValueOfstringstring>
+      <d2p1:Key>.profile</d2p1:Key>
+      <d2p1:Value>C:\USERS\OWNER-PC\DOWNLOADS\COMMON7\IDE\EXTENSIONS\3WQGG22F.MQS\Starterkit\Extensions\shellscript\syntaxes\Shell-Unix-Bash.tmLanguage</d2p1:Value>
+    </d2p1:KeyValueOfstringstring>
+    <d2p1:KeyValueOfstringstring>
+      <d2p1:Key>.bash_logout</d2p1:Key>
+      <d2p1:Value>C:\USERS\OWNER-PC\DOWNLOADS\COMMON7\IDE\EXTENSIONS\3WQGG22F.MQS\Starterkit\Extensions\shellscript\syntaxes\Shell-Unix-Bash.tmLanguage</d2p1:Value>
+    </d2p1:KeyValueOfstringstring>
+    <d2p1:KeyValueOfstringstring>
+      <d2p1:Key>..textmate_init</d2p1:Key>
+      <d2p1:Value>C:\USERS\OWNER-PC\DOWNLOADS\COMMON7\IDE\EXTENSIONS\3WQGG22F.MQS\Starterkit\Extensions\shellscript\syntaxes\Shell-Unix-Bash.tmLanguage</d2p1:Value>
+    </d2p1:KeyValueOfstringstring>
+    <d2p1:KeyValueOfstringstring>
+      <d2p1:Key>.swift</d2p1:Key>
+      <d2p1:Value>C:\USERS\OWNER-PC\DOWNLOADS\COMMON7\IDE\EXTENSIONS\3WQGG22F.MQS\Starterkit\Extensions\swift\syntaxes\Swift.tmLanguage</d2p1:Value>
+    </d2p1:KeyValueOfstringstring>
+    <d2p1:KeyValueOfstringstring>
+      <d2p1:Key>.yaml</d2p1:Key>
+      <d2p1:Value>C:\USERS\OWNER-PC\DOWNLOADS\COMMON7\IDE\EXTENSIONS\3WQGG22F.MQS\Starterkit\Extensions\yaml\syntaxes\YAML.plist</d2p1:Value>
+    </d2p1:KeyValueOfstringstring>
+    <d2p1:KeyValueOfstringstring>
+      <d2p1:Key>.yml</d2p1:Key>
+      <d2p1:Value>C:\USERS\OWNER-PC\DOWNLOADS\COMMON7\IDE\EXTENSIONS\3WQGG22F.MQS\Starterkit\Extensions\yaml\syntaxes\YAML.plist</d2p1:Value>
+    </d2p1:KeyValueOfstringstring>
+  </FileExtensionCache>
+  <FileExtensionScopeCache xmlns:d2p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays">
+    <d2p1:KeyValueOfstringstring>
+      <d2p1:Key>.CMakeCache.txt</d2p1:Key>
+      <d2p1:Value>source.cache.cmake</d2p1:Value>
+    </d2p1:KeyValueOfstringstring>
+    <d2p1:KeyValueOfstringstring>
+      <d2p1:Key>.CMakeLists.txt</d2p1:Key>
+      <d2p1:Value>source.cmake</d2p1:Value>
+    </d2p1:KeyValueOfstringstring>
+    <d2p1:KeyValueOfstringstring>
+      <d2p1:Key>.cmake</d2p1:Key>
+      <d2p1:Value>source.cmake</d2p1:Value>
+    </d2p1:KeyValueOfstringstring>
+    <d2p1:KeyValueOfstringstring>
+      <d2p1:Key>.go</d2p1:Key>
+      <d2p1:Value>source.go</d2p1:Value>
+    </d2p1:KeyValueOfstringstring>
+    <d2p1:KeyValueOfstringstring>
+      <d2p1:Key>.groovy</d2p1:Key>
+      <d2p1:Value>source.groovy</d2p1:Value>
+    </d2p1:KeyValueOfstringstring>
+    <d2p1:KeyValueOfstringstring>
+      <d2p1:Key>.gvy</d2p1:Key>
+      <d2p1:Value>source.groovy</d2p1:Value>
+    </d2p1:KeyValueOfstringstring>
+    <d2p1:KeyValueOfstringstring>
+      <d2p1:Key>.jsp</d2p1:Key>
+      <d2p1:Value>text.html.jsp</d2p1:Value>
+    </d2p1:KeyValueOfstringstring>
+    <d2p1:KeyValueOfstringstring>
+      <d2p1:Key>.jspf</d2p1:Key>
+      <d2p1:Value>text.html.jsp</d2p1:Value>
+    </d2p1:KeyValueOfstringstring>
+    <d2p1:KeyValueOfstringstring>
+      <d2p1:Key>.tag</d2p1:Key>
+      <d2p1:Value>text.html.jsp</d2p1:Value>
+    </d2p1:KeyValueOfstringstring>
+    <d2p1:KeyValueOfstringstring>
+      <d2p1:Key>.java</d2p1:Key>
+      <d2p1:Value>source.java</d2p1:Value>
+    </d2p1:KeyValueOfstringstring>
+    <d2p1:KeyValueOfstringstring>
+      <d2p1:Key>.bsh</d2p1:Key>
+      <d2p1:Value>source.java</d2p1:Value>
+    </d2p1:KeyValueOfstringstring>
+    <d2p1:KeyValueOfstringstring>
+      <d2p1:Key>.properties</d2p1:Key>
+      <d2p1:Value>source.java-properties</d2p1:Value>
+    </d2p1:KeyValueOfstringstring>
+    <d2p1:KeyValueOfstringstring>
+      <d2p1:Key>.lua</d2p1:Key>
+      <d2p1:Value>source.lua</d2p1:Value>
+    </d2p1:KeyValueOfstringstring>
+    <d2p1:KeyValueOfstringstring>
+      <d2p1:Key>.Makefile</d2p1:Key>
+      <d2p1:Value>source.makefile</d2p1:Value>
+    </d2p1:KeyValueOfstringstring>
+    <d2p1:KeyValueOfstringstring>
+      <d2p1:Key>.makefile</d2p1:Key>
+      <d2p1:Value>source.makefile</d2p1:Value>
+    </d2p1:KeyValueOfstringstring>
+    <d2p1:KeyValueOfstringstring>
+      <d2p1:Key>.GNUmakefile</d2p1:Key>
+      <d2p1:Value>source.makefile</d2p1:Value>
+    </d2p1:KeyValueOfstringstring>
+    <d2p1:KeyValueOfstringstring>
+      <d2p1:Key>.OCamlMakefile</d2p1:Key>
+      <d2p1:Value>source.makefile</d2p1:Value>
+    </d2p1:KeyValueOfstringstring>
+    <d2p1:KeyValueOfstringstring>
+      <d2p1:Key>.md</d2p1:Key>
+      <d2p1:Value>text.html.markdown</d2p1:Value>
+    </d2p1:KeyValueOfstringstring>
+    <d2p1:KeyValueOfstringstring>
+      <d2p1:Key>.mdown</d2p1:Key>
+      <d2p1:Value>text.html.markdown</d2p1:Value>
+    </d2p1:KeyValueOfstringstring>
+    <d2p1:KeyValueOfstringstring>
+      <d2p1:Key>.markdown</d2p1:Key>
+      <d2p1:Value>text.html.markdown</d2p1:Value>
+    </d2p1:KeyValueOfstringstring>
+    <d2p1:KeyValueOfstringstring>
+      <d2p1:Key>.markdn</d2p1:Key>
+      <d2p1:Value>text.html.markdown</d2p1:Value>
+    </d2p1:KeyValueOfstringstring>
+    <d2p1:KeyValueOfstringstring>
+      <d2p1:Key>.pl</d2p1:Key>
+      <d2p1:Value>source.perl</d2p1:Value>
+    </d2p1:KeyValueOfstringstring>
+    <d2p1:KeyValueOfstringstring>
+      <d2p1:Key>.pm</d2p1:Key>
+      <d2p1:Value>source.perl</d2p1:Value>
+    </d2p1:KeyValueOfstringstring>
+    <d2p1:KeyValueOfstringstring>
+      <d2p1:Key>.pod</d2p1:Key>
+      <d2p1:Value>source.perl</d2p1:Value>
+    </d2p1:KeyValueOfstringstring>
+    <d2p1:KeyValueOfstringstring>
+      <d2p1:Key>.t</d2p1:Key>
+      <d2p1:Value>source.perl</d2p1:Value>
+    </d2p1:KeyValueOfstringstring>
+    <d2p1:KeyValueOfstringstring>
+      <d2p1:Key>.PL</d2p1:Key>
+      <d2p1:Value>source.perl</d2p1:Value>
+    </d2p1:KeyValueOfstringstring>
+    <d2p1:KeyValueOfstringstring>
+      <d2p1:Key>.R</d2p1:Key>
+      <d2p1:Value>source.r</d2p1:Value>
+    </d2p1:KeyValueOfstringstring>
+    <d2p1:KeyValueOfstringstring>
+      <d2p1:Key>.r</d2p1:Key>
+      <d2p1:Value>source.r</d2p1:Value>
+    </d2p1:KeyValueOfstringstring>
+    <d2p1:KeyValueOfstringstring>
+      <d2p1:Key>.s</d2p1:Key>
+      <d2p1:Value>source.r</d2p1:Value>
+    </d2p1:KeyValueOfstringstring>
+    <d2p1:KeyValueOfstringstring>
+      <d2p1:Key>.S</d2p1:Key>
+      <d2p1:Value>source.r</d2p1:Value>
+    </d2p1:KeyValueOfstringstring>
+    <d2p1:KeyValueOfstringstring>
+      <d2p1:Key>.Rprofile</d2p1:Key>
+      <d2p1:Value>source.r</d2p1:Value>
+    </d2p1:KeyValueOfstringstring>
+    <d2p1:KeyValueOfstringstring>
+      <d2p1:Key>.rd</d2p1:Key>
+      <d2p1:Value>text.tex.latex.rd</d2p1:Value>
+    </d2p1:KeyValueOfstringstring>
+    <d2p1:KeyValueOfstringstring>
+      <d2p1:Key>.Rd</d2p1:Key>
+      <d2p1:Value>text.tex.latex.rd</d2p1:Value>
+    </d2p1:KeyValueOfstringstring>
+    <d2p1:KeyValueOfstringstring>
+      <d2p1:Key>.rb</d2p1:Key>
+      <d2p1:Value>source.ruby</d2p1:Value>
+    </d2p1:KeyValueOfstringstring>
+    <d2p1:KeyValueOfstringstring>
+      <d2p1:Key>.rbx</d2p1:Key>
+      <d2p1:Value>source.ruby</d2p1:Value>
+    </d2p1:KeyValueOfstringstring>
+    <d2p1:KeyValueOfstringstring>
+      <d2p1:Key>.rjs</d2p1:Key>
+      <d2p1:Value>source.ruby</d2p1:Value>
+    </d2p1:KeyValueOfstringstring>
+    <d2p1:KeyValueOfstringstring>
+      <d2p1:Key>.Rakefile</d2p1:Key>
+      <d2p1:Value>source.ruby</d2p1:Value>
+    </d2p1:KeyValueOfstringstring>
+    <d2p1:KeyValueOfstringstring>
+      <d2p1:Key>.rake</d2p1:Key>
+      <d2p1:Value>source.ruby</d2p1:Value>
+    </d2p1:KeyValueOfstringstring>
+    <d2p1:KeyValueOfstringstring>
+      <d2p1:Key>.cgi</d2p1:Key>
+      <d2p1:Value>source.ruby</d2p1:Value>
+    </d2p1:KeyValueOfstringstring>
+    <d2p1:KeyValueOfstringstring>
+      <d2p1:Key>.fcgi</d2p1:Key>
+      <d2p1:Value>source.ruby</d2p1:Value>
+    </d2p1:KeyValueOfstringstring>
+    <d2p1:KeyValueOfstringstring>
+      <d2p1:Key>.gemspec</d2p1:Key>
+      <d2p1:Value>source.ruby</d2p1:Value>
+    </d2p1:KeyValueOfstringstring>
+    <d2p1:KeyValueOfstringstring>
+      <d2p1:Key>.irbrc</d2p1:Key>
+      <d2p1:Value>source.ruby</d2p1:Value>
+    </d2p1:KeyValueOfstringstring>
+    <d2p1:KeyValueOfstringstring>
+      <d2p1:Key>.capfile</d2p1:Key>
+      <d2p1:Value>source.ruby</d2p1:Value>
+    </d2p1:KeyValueOfstringstring>
+    <d2p1:KeyValueOfstringstring>
+      <d2p1:Key>.Gemfile</d2p1:Key>
+      <d2p1:Value>source.ruby</d2p1:Value>
+    </d2p1:KeyValueOfstringstring>
+    <d2p1:KeyValueOfstringstring>
+      <d2p1:Key>.sh</d2p1:Key>
+      <d2p1:Value>source.shell</d2p1:Value>
+    </d2p1:KeyValueOfstringstring>
+    <d2p1:KeyValueOfstringstring>
+      <d2p1:Key>.bash</d2p1:Key>
+      <d2p1:Value>source.shell</d2p1:Value>
+    </d2p1:KeyValueOfstringstring>
+    <d2p1:KeyValueOfstringstring>
+      <d2p1:Key>.zsh</d2p1:Key>
+      <d2p1:Value>source.shell</d2p1:Value>
+    </d2p1:KeyValueOfstringstring>
+    <d2p1:KeyValueOfstringstring>
+      <d2p1:Key>.bashrc</d2p1:Key>
+      <d2p1:Value>source.shell</d2p1:Value>
+    </d2p1:KeyValueOfstringstring>
+    <d2p1:KeyValueOfstringstring>
+      <d2p1:Key>.bash_profile</d2p1:Key>
+      <d2p1:Value>source.shell</d2p1:Value>
+    </d2p1:KeyValueOfstringstring>
+    <d2p1:KeyValueOfstringstring>
+      <d2p1:Key>.bash_login</d2p1:Key>
+      <d2p1:Value>source.shell</d2p1:Value>
+    </d2p1:KeyValueOfstringstring>
+    <d2p1:KeyValueOfstringstring>
+      <d2p1:Key>.profile</d2p1:Key>
+      <d2p1:Value>source.shell</d2p1:Value>
+    </d2p1:KeyValueOfstringstring>
+    <d2p1:KeyValueOfstringstring>
+      <d2p1:Key>.bash_logout</d2p1:Key>
+      <d2p1:Value>source.shell</d2p1:Value>
+    </d2p1:KeyValueOfstringstring>
+    <d2p1:KeyValueOfstringstring>
+      <d2p1:Key>..textmate_init</d2p1:Key>
+      <d2p1:Value>source.shell</d2p1:Value>
+    </d2p1:KeyValueOfstringstring>
+    <d2p1:KeyValueOfstringstring>
+      <d2p1:Key>.swift</d2p1:Key>
+      <d2p1:Value>source.swift</d2p1:Value>
+    </d2p1:KeyValueOfstringstring>
+    <d2p1:KeyValueOfstringstring>
+      <d2p1:Key>.yaml</d2p1:Key>
+      <d2p1:Value>source.yaml</d2p1:Value>
+    </d2p1:KeyValueOfstringstring>
+    <d2p1:KeyValueOfstringstring>
+      <d2p1:Key>.yml</d2p1:Key>
+      <d2p1:Value>source.yaml</d2p1:Value>
+    </d2p1:KeyValueOfstringstring>
+  </FileExtensionScopeCache>
+  <ScopeCache xmlns:d2p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays">
+    <d2p1:KeyValueOfstringstring>
+      <d2p1:Key>source.cache.cmake</d2p1:Key>
+      <d2p1:Value>C:\USERS\OWNER-PC\DOWNLOADS\COMMON7\IDE\EXTENSIONS\3WQGG22F.MQS\Starterkit\Extensions\cmake\syntaxes\CMake Cache.tmLanguage</d2p1:Value>
+    </d2p1:KeyValueOfstringstring>
+    <d2p1:KeyValueOfstringstring>
+      <d2p1:Key>source.cmake</d2p1:Key>
+      <d2p1:Value>C:\USERS\OWNER-PC\DOWNLOADS\COMMON7\IDE\EXTENSIONS\3WQGG22F.MQS\Starterkit\Extensions\cmake\syntaxes\CMake Listfile.tmLanguage</d2p1:Value>
+    </d2p1:KeyValueOfstringstring>
+    <d2p1:KeyValueOfstringstring>
+      <d2p1:Key>source.go</d2p1:Key>
+      <d2p1:Value>C:\USERS\OWNER-PC\DOWNLOADS\COMMON7\IDE\EXTENSIONS\3WQGG22F.MQS\Starterkit\Extensions\go\syntaxes\Go.tmLanguage</d2p1:Value>
+    </d2p1:KeyValueOfstringstring>
+    <d2p1:KeyValueOfstringstring>
+      <d2p1:Key>source.groovy</d2p1:Key>
+      <d2p1:Value>C:\USERS\OWNER-PC\DOWNLOADS\COMMON7\IDE\EXTENSIONS\3WQGG22F.MQS\Starterkit\Extensions\groovy\syntaxes\Groovy.tmLanguage</d2p1:Value>
+    </d2p1:KeyValueOfstringstring>
+    <d2p1:KeyValueOfstringstring>
+      <d2p1:Key>text.html.jsp</d2p1:Key>
+      <d2p1:Value>C:\USERS\OWNER-PC\DOWNLOADS\COMMON7\IDE\EXTENSIONS\3WQGG22F.MQS\Starterkit\Extensions\java\syntaxes\Java Server Pages (JSP).tmLanguage</d2p1:Value>
+    </d2p1:KeyValueOfstringstring>
+    <d2p1:KeyValueOfstringstring>
+      <d2p1:Key>source.java</d2p1:Key>
+      <d2p1:Value>C:\USERS\OWNER-PC\DOWNLOADS\COMMON7\IDE\EXTENSIONS\3WQGG22F.MQS\Starterkit\Extensions\java\syntaxes\Java.tmLanguage</d2p1:Value>
+    </d2p1:KeyValueOfstringstring>
+    <d2p1:KeyValueOfstringstring>
+      <d2p1:Key>source.java-properties</d2p1:Key>
+      <d2p1:Value>C:\USERS\OWNER-PC\DOWNLOADS\COMMON7\IDE\EXTENSIONS\3WQGG22F.MQS\Starterkit\Extensions\java\syntaxes\JavaProperties.tmLanguage</d2p1:Value>
+    </d2p1:KeyValueOfstringstring>
+    <d2p1:KeyValueOfstringstring>
+      <d2p1:Key>text.junit-test-report</d2p1:Key>
+      <d2p1:Value>C:\USERS\OWNER-PC\DOWNLOADS\COMMON7\IDE\EXTENSIONS\3WQGG22F.MQS\Starterkit\Extensions\java\syntaxes\JUnit Test Report.tmLanguage</d2p1:Value>
+    </d2p1:KeyValueOfstringstring>
+    <d2p1:KeyValueOfstringstring>
+      <d2p1:Key>text.html.javadoc</d2p1:Key>
+      <d2p1:Value>C:\USERS\OWNER-PC\DOWNLOADS\COMMON7\IDE\EXTENSIONS\3WQGG22F.MQS\Starterkit\Extensions\javadoc\syntaxes\JavaDoc.tmLanguage</d2p1:Value>
+    </d2p1:KeyValueOfstringstring>
+    <d2p1:KeyValueOfstringstring>
+      <d2p1:Key>source.lua</d2p1:Key>
+      <d2p1:Value>C:\USERS\OWNER-PC\DOWNLOADS\COMMON7\IDE\EXTENSIONS\3WQGG22F.MQS\Starterkit\Extensions\lua\syntaxes\Lua.plist</d2p1:Value>
+    </d2p1:KeyValueOfstringstring>
+    <d2p1:KeyValueOfstringstring>
+      <d2p1:Key>source.makefile</d2p1:Key>
+      <d2p1:Value>C:\USERS\OWNER-PC\DOWNLOADS\COMMON7\IDE\EXTENSIONS\3WQGG22F.MQS\Starterkit\Extensions\make\syntaxes\Makefile.plist</d2p1:Value>
+    </d2p1:KeyValueOfstringstring>
+    <d2p1:KeyValueOfstringstring>
+      <d2p1:Key>text.html.markdown</d2p1:Key>
+      <d2p1:Value>C:\USERS\OWNER-PC\DOWNLOADS\COMMON7\IDE\EXTENSIONS\3WQGG22F.MQS\Starterkit\Extensions\markdown\syntaxes\Markdown.tmLanguage</d2p1:Value>
+    </d2p1:KeyValueOfstringstring>
+    <d2p1:KeyValueOfstringstring>
+      <d2p1:Key>source.perl</d2p1:Key>
+      <d2p1:Value>C:\USERS\OWNER-PC\DOWNLOADS\COMMON7\IDE\EXTENSIONS\3WQGG22F.MQS\Starterkit\Extensions\perl\syntaxes\Perl.tmLanguage</d2p1:Value>
+    </d2p1:KeyValueOfstringstring>
+    <d2p1:KeyValueOfstringstring>
+      <d2p1:Key>source.r</d2p1:Key>
+      <d2p1:Value>C:\USERS\OWNER-PC\DOWNLOADS\COMMON7\IDE\EXTENSIONS\3WQGG22F.MQS\Starterkit\Extensions\r\syntaxes\R.plist</d2p1:Value>
+    </d2p1:KeyValueOfstringstring>
+    <d2p1:KeyValueOfstringstring>
+      <d2p1:Key>text.tex.latex.rd</d2p1:Key>
+      <d2p1:Value>C:\USERS\OWNER-PC\DOWNLOADS\COMMON7\IDE\EXTENSIONS\3WQGG22F.MQS\Starterkit\Extensions\r\syntaxes\Rd (R Documentation).tmLanguage</d2p1:Value>
+    </d2p1:KeyValueOfstringstring>
+    <d2p1:KeyValueOfstringstring>
+      <d2p1:Key>source.ruby</d2p1:Key>
+      <d2p1:Value>C:\USERS\OWNER-PC\DOWNLOADS\COMMON7\IDE\EXTENSIONS\3WQGG22F.MQS\Starterkit\Extensions\ruby\syntaxes\Ruby.tmLanguage</d2p1:Value>
+    </d2p1:KeyValueOfstringstring>
+    <d2p1:KeyValueOfstringstring>
+      <d2p1:Key>source.shell</d2p1:Key>
+      <d2p1:Value>C:\USERS\OWNER-PC\DOWNLOADS\COMMON7\IDE\EXTENSIONS\3WQGG22F.MQS\Starterkit\Extensions\shellscript\syntaxes\Shell-Unix-Bash.tmLanguage</d2p1:Value>
+    </d2p1:KeyValueOfstringstring>
+    <d2p1:KeyValueOfstringstring>
+      <d2p1:Key>source.swift</d2p1:Key>
+      <d2p1:Value>C:\USERS\OWNER-PC\DOWNLOADS\COMMON7\IDE\EXTENSIONS\3WQGG22F.MQS\Starterkit\Extensions\swift\syntaxes\Swift.tmLanguage</d2p1:Value>
+    </d2p1:KeyValueOfstringstring>
+    <d2p1:KeyValueOfstringstring>
+      <d2p1:Key>source.yaml</d2p1:Key>
+      <d2p1:Value>C:\USERS\OWNER-PC\DOWNLOADS\COMMON7\IDE\EXTENSIONS\3WQGG22F.MQS\Starterkit\Extensions\yaml\syntaxes\YAML.plist</d2p1:Value>
+    </d2p1:KeyValueOfstringstring>
+  </ScopeCache>
+  <TimestampCache xmlns:d2p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays">
+    <d2p1:KeyValueOfstringdateTime>
+      <d2p1:Key>C:\USERS\OWNER-PC\DOWNLOADS\COMMON7\IDE\EXTENSIONS\3WQGG22F.MQS\Starterkit\Extensions\cmake\syntaxes\CMake Cache.tmLanguage</d2p1:Key>
+      <d2p1:Value>2016-04-06T07:32:38.3894031-05:00</d2p1:Value>
+    </d2p1:KeyValueOfstringdateTime>
+    <d2p1:KeyValueOfstringdateTime>
+      <d2p1:Key>C:\USERS\OWNER-PC\DOWNLOADS\COMMON7\IDE\EXTENSIONS\3WQGG22F.MQS\Starterkit\Extensions\cmake\syntaxes\CMake Listfile.tmLanguage</d2p1:Key>
+      <d2p1:Value>2016-04-06T07:32:38.3934134-05:00</d2p1:Value>
+    </d2p1:KeyValueOfstringdateTime>
+    <d2p1:KeyValueOfstringdateTime>
+      <d2p1:Key>C:\USERS\OWNER-PC\DOWNLOADS\COMMON7\IDE\EXTENSIONS\3WQGG22F.MQS\Starterkit\Extensions\cmake\snippets\File(Glob …).tmSnippet</d2p1:Key>
+      <d2p1:Value>2016-04-06T07:32:38.3694703-05:00</d2p1:Value>
+    </d2p1:KeyValueOfstringdateTime>
+    <d2p1:KeyValueOfstringdateTime>
+      <d2p1:Key>C:\USERS\OWNER-PC\DOWNLOADS\COMMON7\IDE\EXTENSIONS\3WQGG22F.MQS\Starterkit\Extensions\cmake\snippets\Foreach … EndForeach.tmSnippet</d2p1:Key>
+      <d2p1:Value>2016-04-06T07:32:38.3739807-05:00</d2p1:Value>
+    </d2p1:KeyValueOfstringdateTime>
+    <d2p1:KeyValueOfstringdateTime>
+      <d2p1:Key>C:\USERS\OWNER-PC\DOWNLOADS\COMMON7\IDE\EXTENSIONS\3WQGG22F.MQS\Starterkit\Extensions\cmake\snippets\If … Endif.tmSnippet</d2p1:Key>
+      <d2p1:Value>2016-04-06T07:32:38.3769887-05:00</d2p1:Value>
+    </d2p1:KeyValueOfstringdateTime>
+    <d2p1:KeyValueOfstringdateTime>
+      <d2p1:Key>C:\USERS\OWNER-PC\DOWNLOADS\COMMON7\IDE\EXTENSIONS\3WQGG22F.MQS\Starterkit\Extensions\cmake\snippets\List(Append …).tmSnippet</d2p1:Key>
+      <d2p1:Value>2016-04-06T07:32:38.3799983-05:00</d2p1:Value>
+    </d2p1:KeyValueOfstringdateTime>
+    <d2p1:KeyValueOfstringdateTime>
+      <d2p1:Key>C:\USERS\OWNER-PC\DOWNLOADS\COMMON7\IDE\EXTENSIONS\3WQGG22F.MQS\Starterkit\Extensions\cmake\snippets\Message(…).tmSnippet</d2p1:Key>
+      <d2p1:Value>2016-04-06T07:32:38.3823837-05:00</d2p1:Value>
+    </d2p1:KeyValueOfstringdateTime>
+    <d2p1:KeyValueOfstringdateTime>
+      <d2p1:Key>C:\USERS\OWNER-PC\DOWNLOADS\COMMON7\IDE\EXTENSIONS\3WQGG22F.MQS\Starterkit\Extensions\cmake\snippets\Set(Variable …).tmSnippet</d2p1:Key>
+      <d2p1:Value>2016-04-06T07:32:38.3853917-05:00</d2p1:Value>
+    </d2p1:KeyValueOfstringdateTime>
+    <d2p1:KeyValueOfstringdateTime>
+      <d2p1:Key>C:\USERS\OWNER-PC\DOWNLOADS\COMMON7\IDE\EXTENSIONS\3WQGG22F.MQS\Starterkit\Extensions\go\syntaxes\Go.tmLanguage</d2p1:Key>
+      <d2p1:Value>2016-04-06T07:32:38.4735131-05:00</d2p1:Value>
+    </d2p1:KeyValueOfstringdateTime>
+    <d2p1:KeyValueOfstringdateTime>
+      <d2p1:Key>C:\USERS\OWNER-PC\DOWNLOADS\COMMON7\IDE\EXTENSIONS\3WQGG22F.MQS\Starterkit\Extensions\go\snippets\Case Clause.tmSnippet</d2p1:Key>
+      <d2p1:Value>2016-04-06T07:32:38.396421-05:00</d2p1:Value>
+    </d2p1:KeyValueOfstringdateTime>
+    <d2p1:KeyValueOfstringdateTime>
+      <d2p1:Key>C:\USERS\OWNER-PC\DOWNLOADS\COMMON7\IDE\EXTENSIONS\3WQGG22F.MQS\Starterkit\Extensions\go\snippets\Channel.tmSnippet</d2p1:Key>
+      <d2p1:Value>2016-04-06T07:32:38.399459-05:00</d2p1:Value>
+    </d2p1:KeyValueOfstringdateTime>
+    <d2p1:KeyValueOfstringdateTime>
+      <d2p1:Key>C:\USERS\OWNER-PC\DOWNLOADS\COMMON7\IDE\EXTENSIONS\3WQGG22F.MQS\Starterkit\Extensions\go\snippets\Default Clause.tmSnippet</d2p1:Key>
+      <d2p1:Value>2016-04-06T07:32:38.4022332-05:00</d2p1:Value>
+    </d2p1:KeyValueOfstringdateTime>
+    <d2p1:KeyValueOfstringdateTime>
+      <d2p1:Key>C:\USERS\OWNER-PC\DOWNLOADS\COMMON7\IDE\EXTENSIONS\3WQGG22F.MQS\Starterkit\Extensions\go\snippets\Empty Interface.tmSnippet</d2p1:Key>
+      <d2p1:Value>2016-04-06T07:32:38.4067452-05:00</d2p1:Value>
+    </d2p1:KeyValueOfstringdateTime>
+    <d2p1:KeyValueOfstringdateTime>
+      <d2p1:Key>C:\USERS\OWNER-PC\DOWNLOADS\COMMON7\IDE\EXTENSIONS\3WQGG22F.MQS\Starterkit\Extensions\go\snippets\For Range Loop.tmSnippet</d2p1:Key>
+      <d2p1:Value>2016-04-06T07:32:38.4092534-05:00</d2p1:Value>
+    </d2p1:KeyValueOfstringdateTime>
+    <d2p1:KeyValueOfstringdateTime>
+      <d2p1:Key>C:\USERS\OWNER-PC\DOWNLOADS\COMMON7\IDE\EXTENSIONS\3WQGG22F.MQS\Starterkit\Extensions\go\snippets\Imports.tmSnippet</d2p1:Key>
+      <d2p1:Value>2016-04-06T07:32:38.4122618-05:00</d2p1:Value>
+    </d2p1:KeyValueOfstringdateTime>
+    <d2p1:KeyValueOfstringdateTime>
+      <d2p1:Key>C:\USERS\OWNER-PC\DOWNLOADS\COMMON7\IDE\EXTENSIONS\3WQGG22F.MQS\Starterkit\Extensions\go\snippets\Init Function.tmSnippet</d2p1:Key>
+      <d2p1:Value>2016-04-06T07:32:38.4145267-05:00</d2p1:Value>
+    </d2p1:KeyValueOfstringdateTime>
+    <d2p1:KeyValueOfstringdateTime>
+      <d2p1:Key>C:\USERS\OWNER-PC\DOWNLOADS\COMMON7\IDE\EXTENSIONS\3WQGG22F.MQS\Starterkit\Extensions\go\snippets\Interface.tmSnippet</d2p1:Key>
+      <d2p1:Value>2016-04-06T07:32:38.4175371-05:00</d2p1:Value>
+    </d2p1:KeyValueOfstringdateTime>
+    <d2p1:KeyValueOfstringdateTime>
+      <d2p1:Key>C:\USERS\OWNER-PC\DOWNLOADS\COMMON7\IDE\EXTENSIONS\3WQGG22F.MQS\Starterkit\Extensions\go\snippets\Main Function.tmSnippet</d2p1:Key>
+      <d2p1:Value>2016-04-06T07:32:38.4202923-05:00</d2p1:Value>
+    </d2p1:KeyValueOfstringdateTime>
+    <d2p1:KeyValueOfstringdateTime>
+      <d2p1:Key>C:\USERS\OWNER-PC\DOWNLOADS\COMMON7\IDE\EXTENSIONS\3WQGG22F.MQS\Starterkit\Extensions\go\snippets\Map.tmSnippet</d2p1:Key>
+      <d2p1:Value>2016-04-06T07:32:38.4242919-05:00</d2p1:Value>
+    </d2p1:KeyValueOfstringdateTime>
+    <d2p1:KeyValueOfstringdateTime>
+      <d2p1:Key>C:\USERS\OWNER-PC\DOWNLOADS\COMMON7\IDE\EXTENSIONS\3WQGG22F.MQS\Starterkit\Extensions\go\snippets\Method w_ result vars.tmSnippet</d2p1:Key>
+      <d2p1:Value>2016-04-06T07:32:38.4267985-05:00</d2p1:Value>
+    </d2p1:KeyValueOfstringdateTime>
+    <d2p1:KeyValueOfstringdateTime>
+      <d2p1:Key>C:\USERS\OWNER-PC\DOWNLOADS\COMMON7\IDE\EXTENSIONS\3WQGG22F.MQS\Starterkit\Extensions\go\snippets\Struct.tmSnippet</d2p1:Key>
+      <d2p1:Value>2016-04-06T07:32:38.4293431-05:00</d2p1:Value>
+    </d2p1:KeyValueOfstringdateTime>
+    <d2p1:KeyValueOfstringdateTime>
+      <d2p1:Key>C:\USERS\OWNER-PC\DOWNLOADS\COMMON7\IDE\EXTENSIONS\3WQGG22F.MQS\Starterkit\Extensions\go\snippets\Type.tmSnippet</d2p1:Key>
+      <d2p1:Value>2016-04-06T07:32:38.4318119-05:00</d2p1:Value>
+    </d2p1:KeyValueOfstringdateTime>
+    <d2p1:KeyValueOfstringdateTime>
+      <d2p1:Key>C:\USERS\OWNER-PC\DOWNLOADS\COMMON7\IDE\EXTENSIONS\3WQGG22F.MQS\Starterkit\Extensions\go\snippets\Types.tmSnippet</d2p1:Key>
+      <d2p1:Value>2016-04-06T07:32:38.4348586-05:00</d2p1:Value>
+    </d2p1:KeyValueOfstringdateTime>
+    <d2p1:KeyValueOfstringdateTime>
+      <d2p1:Key>C:\USERS\OWNER-PC\DOWNLOADS\COMMON7\IDE\EXTENSIONS\3WQGG22F.MQS\Starterkit\Extensions\groovy\syntaxes\Groovy.tmLanguage</d2p1:Key>
+      <d2p1:Value>2016-04-06T07:32:38.6295772-05:00</d2p1:Value>
+    </d2p1:KeyValueOfstringdateTime>
+    <d2p1:KeyValueOfstringdateTime>
+      <d2p1:Key>C:\USERS\OWNER-PC\DOWNLOADS\COMMON7\IDE\EXTENSIONS\3WQGG22F.MQS\Starterkit\Extensions\groovy\snippets\Ant __ replace.tmSnippet</d2p1:Key>
+      <d2p1:Value>2016-04-06T07:32:38.4770228-05:00</d2p1:Value>
+    </d2p1:KeyValueOfstringdateTime>
+    <d2p1:KeyValueOfstringdateTime>
+      <d2p1:Key>C:\USERS\OWNER-PC\DOWNLOADS\COMMON7\IDE\EXTENSIONS\3WQGG22F.MQS\Starterkit\Extensions\groovy\snippets\as BigDecimal.tmSnippet</d2p1:Key>
+      <d2p1:Value>2016-04-06T07:32:38.4795318-05:00</d2p1:Value>
+    </d2p1:KeyValueOfstringdateTime>
+    <d2p1:KeyValueOfstringdateTime>
+      <d2p1:Key>C:\USERS\OWNER-PC\DOWNLOADS\COMMON7\IDE\EXTENSIONS\3WQGG22F.MQS\Starterkit\Extensions\groovy\snippets\as BigInteger.tmSnippet</d2p1:Key>
+      <d2p1:Value>2016-04-06T07:32:38.4823087-05:00</d2p1:Value>
+    </d2p1:KeyValueOfstringdateTime>
+    <d2p1:KeyValueOfstringdateTime>
+      <d2p1:Key>C:\USERS\OWNER-PC\DOWNLOADS\COMMON7\IDE\EXTENSIONS\3WQGG22F.MQS\Starterkit\Extensions\groovy\snippets\as Double.tmSnippet</d2p1:Key>
+      <d2p1:Value>2016-04-06T07:32:38.4854285-05:00</d2p1:Value>
+    </d2p1:KeyValueOfstringdateTime>
+    <d2p1:KeyValueOfstringdateTime>
+      <d2p1:Key>C:\USERS\OWNER-PC\DOWNLOADS\COMMON7\IDE\EXTENSIONS\3WQGG22F.MQS\Starterkit\Extensions\groovy\snippets\as Float.tmSnippet</d2p1:Key>
+      <d2p1:Value>2016-04-06T07:32:38.4889383-05:00</d2p1:Value>
+    </d2p1:KeyValueOfstringdateTime>
+    <d2p1:KeyValueOfstringdateTime>
+      <d2p1:Key>C:\USERS\OWNER-PC\DOWNLOADS\COMMON7\IDE\EXTENSIONS\3WQGG22F.MQS\Starterkit\Extensions\groovy\snippets\as Set.tmSnippet</d2p1:Key>
+      <d2p1:Value>2016-04-06T07:32:38.4919494-05:00</d2p1:Value>
+    </d2p1:KeyValueOfstringdateTime>
+    <d2p1:KeyValueOfstringdateTime>
+      <d2p1:Key>C:\USERS\OWNER-PC\DOWNLOADS\COMMON7\IDE\EXTENSIONS\3WQGG22F.MQS\Starterkit\Extensions\groovy\snippets\as String.tmSnippet</d2p1:Key>
+      <d2p1:Value>2016-04-06T07:32:38.4944525-05:00</d2p1:Value>
+    </d2p1:KeyValueOfstringdateTime>
+    <d2p1:KeyValueOfstringdateTime>
+      <d2p1:Key>C:\USERS\OWNER-PC\DOWNLOADS\COMMON7\IDE\EXTENSIONS\3WQGG22F.MQS\Starterkit\Extensions\groovy\snippets\as Writable.tmSnippet</d2p1:Key>
+      <d2p1:Value>2016-04-06T07:32:38.4970161-05:00</d2p1:Value>
+    </d2p1:KeyValueOfstringdateTime>
+    <d2p1:KeyValueOfstringdateTime>
+      <d2p1:Key>C:\USERS\OWNER-PC\DOWNLOADS\COMMON7\IDE\EXTENSIONS\3WQGG22F.MQS\Starterkit\Extensions\groovy\snippets\Block Comment.tmSnippet</d2p1:Key>
+      <d2p1:Value>2016-04-06T07:32:38.5000241-05:00</d2p1:Value>
+    </d2p1:KeyValueOfstringdateTime>
+    <d2p1:KeyValueOfstringdateTime>
+      <d2p1:Key>C:\USERS\OWNER-PC\DOWNLOADS\COMMON7\IDE\EXTENSIONS\3WQGG22F.MQS\Starterkit\Extensions\groovy\snippets\case.tmSnippet</d2p1:Key>
+      <d2p1:Value>2016-04-06T07:32:38.5025312-05:00</d2p1:Value>
+    </d2p1:KeyValueOfstringdateTime>
+    <d2p1:KeyValueOfstringdateTime>
+      <d2p1:Key>C:\USERS\OWNER-PC\DOWNLOADS\COMMON7\IDE\EXTENSIONS\3WQGG22F.MQS\Starterkit\Extensions\groovy\snippets\copy__ file.tmSnippet</d2p1:Key>
+      <d2p1:Value>2016-04-06T07:32:38.5060409-05:00</d2p1:Value>
+    </d2p1:KeyValueOfstringdateTime>
+    <d2p1:KeyValueOfstringdateTime>
+      <d2p1:Key>C:\USERS\OWNER-PC\DOWNLOADS\COMMON7\IDE\EXTENSIONS\3WQGG22F.MQS\Starterkit\Extensions\groovy\snippets\copy__ fileset include_exclude.tmSnippet</d2p1:Key>
+      <d2p1:Value>2016-04-06T07:32:38.5090481-05:00</d2p1:Value>
+    </d2p1:KeyValueOfstringdateTime>
+    <d2p1:KeyValueOfstringdateTime>
+      <d2p1:Key>C:\USERS\OWNER-PC\DOWNLOADS\COMMON7\IDE\EXTENSIONS\3WQGG22F.MQS\Starterkit\Extensions\groovy\snippets\copy__ fileset.tmSnippet</d2p1:Key>
+      <d2p1:Value>2016-04-06T07:32:38.5115812-05:00</d2p1:Value>
+    </d2p1:KeyValueOfstringdateTime>
+    <d2p1:KeyValueOfstringdateTime>
+      <d2p1:Key>C:\USERS\OWNER-PC\DOWNLOADS\COMMON7\IDE\EXTENSIONS\3WQGG22F.MQS\Starterkit\Extensions\groovy\snippets\def __ closure = {__} .tmSnippet</d2p1:Key>
+      <d2p1:Value>2016-04-06T07:32:38.5145632-05:00</d2p1:Value>
+    </d2p1:KeyValueOfstringdateTime>
+    <d2p1:KeyValueOfstringdateTime>
+      <d2p1:Key>C:\USERS\OWNER-PC\DOWNLOADS\COMMON7\IDE\EXTENSIONS\3WQGG22F.MQS\Starterkit\Extensions\groovy\snippets\def.tmSnippet</d2p1:Key>
+      <d2p1:Value>2016-04-06T07:32:38.5170951-05:00</d2p1:Value>
+    </d2p1:KeyValueOfstringdateTime>
+    <d2p1:KeyValueOfstringdateTime>
+      <d2p1:Key>C:\USERS\OWNER-PC\DOWNLOADS\COMMON7\IDE\EXTENSIONS\3WQGG22F.MQS\Starterkit\Extensions\groovy\snippets\for in.tmSnippet</d2p1:Key>
+      <d2p1:Value>2016-04-06T07:32:38.5200779-05:00</d2p1:Value>
+    </d2p1:KeyValueOfstringdateTime>
+    <d2p1:KeyValueOfstringdateTime>
+      <d2p1:Key>C:\USERS\OWNER-PC\DOWNLOADS\COMMON7\IDE\EXTENSIONS\3WQGG22F.MQS\Starterkit\Extensions\groovy\snippets\mkdir.tmSnippet</d2p1:Key>
+      <d2p1:Value>2016-04-06T07:32:38.5245914-05:00</d2p1:Value>
+    </d2p1:KeyValueOfstringdateTime>
+    <d2p1:KeyValueOfstringdateTime>
+      <d2p1:Key>C:\USERS\OWNER-PC\DOWNLOADS\COMMON7\IDE\EXTENSIONS\3WQGG22F.MQS\Starterkit\Extensions\groovy\snippets\print.tmSnippet</d2p1:Key>
+      <d2p1:Value>2016-04-06T07:32:38.5271123-05:00</d2p1:Value>
+    </d2p1:KeyValueOfstringdateTime>
+    <d2p1:KeyValueOfstringdateTime>
+      <d2p1:Key>C:\USERS\OWNER-PC\DOWNLOADS\COMMON7\IDE\EXTENSIONS\3WQGG22F.MQS\Starterkit\Extensions\groovy\snippets\println .tmSnippet</d2p1:Key>
+      <d2p1:Value>2016-04-06T07:32:38.5301057-05:00</d2p1:Value>
+    </d2p1:KeyValueOfstringdateTime>
+    <d2p1:KeyValueOfstringdateTime>
+      <d2p1:Key>C:\USERS\OWNER-PC\DOWNLOADS\COMMON7\IDE\EXTENSIONS\3WQGG22F.MQS\Starterkit\Extensions\groovy\snippets\run after.tmSnippet</d2p1:Key>
+      <d2p1:Value>2016-04-06T07:32:38.5331212-05:00</d2p1:Value>
+    </d2p1:KeyValueOfstringdateTime>
+    <d2p1:KeyValueOfstringdateTime>
+      <d2p1:Key>C:\USERS\OWNER-PC\DOWNLOADS\COMMON7\IDE\EXTENSIONS\3WQGG22F.MQS\Starterkit\Extensions\groovy\snippets\setUp().tmSnippet</d2p1:Key>
+      <d2p1:Value>2016-04-06T07:32:38.5356441-05:00</d2p1:Value>
+    </d2p1:KeyValueOfstringdateTime>
+    <d2p1:KeyValueOfstringdateTime>
+      <d2p1:Key>C:\USERS\OWNER-PC\DOWNLOADS\COMMON7\IDE\EXTENSIONS\3WQGG22F.MQS\Starterkit\Extensions\groovy\snippets\sleep(secs) { __ __ on interrupt }.tmSnippet</d2p1:Key>
+      <d2p1:Value>2016-04-06T07:32:38.5396303-05:00</d2p1:Value>
+    </d2p1:KeyValueOfstringdateTime>
+    <d2p1:KeyValueOfstringdateTime>
+      <d2p1:Key>C:\USERS\OWNER-PC\DOWNLOADS\COMMON7\IDE\EXTENSIONS\3WQGG22F.MQS\Starterkit\Extensions\groovy\snippets\sleep(secs).tmSnippet</d2p1:Key>
+      <d2p1:Value>2016-04-06T07:32:38.5426379-05:00</d2p1:Value>
+    </d2p1:KeyValueOfstringdateTime>
+    <d2p1:KeyValueOfstringdateTime>
+      <d2p1:Key>C:\USERS\OWNER-PC\DOWNLOADS\COMMON7\IDE\EXTENSIONS\3WQGG22F.MQS\Starterkit\Extensions\groovy\snippets\sort { __ }.tmSnippet</d2p1:Key>
+      <d2p1:Value>2016-04-06T07:32:38.5451445-05:00</d2p1:Value>
+    </d2p1:KeyValueOfstringdateTime>
+    <d2p1:KeyValueOfstringdateTime>
+      <d2p1:Key>C:\USERS\OWNER-PC\DOWNLOADS\COMMON7\IDE\EXTENSIONS\3WQGG22F.MQS\Starterkit\Extensions\groovy\snippets\static main method.tmSnippet</d2p1:Key>
+      <d2p1:Value>2016-04-06T07:32:38.5471499-05:00</d2p1:Value>
+    </d2p1:KeyValueOfstringdateTime>
+    <d2p1:KeyValueOfstringdateTime>
+      <d2p1:Key>C:\USERS\OWNER-PC\DOWNLOADS\COMMON7\IDE\EXTENSIONS\3WQGG22F.MQS\Starterkit\Extensions\groovy\snippets\switch__case.tmSnippet</d2p1:Key>
+      <d2p1:Value>2016-04-06T07:32:38.5501575-05:00</d2p1:Value>
+    </d2p1:KeyValueOfstringdateTime>
+    <d2p1:KeyValueOfstringdateTime>
+      <d2p1:Key>C:\USERS\OWNER-PC\DOWNLOADS\COMMON7\IDE\EXTENSIONS\3WQGG22F.MQS\Starterkit\Extensions\groovy\snippets\switch__case__default.tmSnippet</d2p1:Key>
+      <d2p1:Value>2016-04-06T07:32:38.5521628-05:00</d2p1:Value>
+    </d2p1:KeyValueOfstringdateTime>
+    <d2p1:KeyValueOfstringdateTime>
+      <d2p1:Key>C:\USERS\OWNER-PC\DOWNLOADS\COMMON7\IDE\EXTENSIONS\3WQGG22F.MQS\Starterkit\Extensions\groovy\snippets\tearDown().tmSnippet</d2p1:Key>
+      <d2p1:Value>2016-04-06T07:32:38.5561747-05:00</d2p1:Value>
+    </d2p1:KeyValueOfstringdateTime>
+    <d2p1:KeyValueOfstringdateTime>
+      <d2p1:Key>C:\USERS\OWNER-PC\DOWNLOADS\COMMON7\IDE\EXTENSIONS\3WQGG22F.MQS\Starterkit\Extensions\groovy\snippets\test case.tmSnippet</d2p1:Key>
+      <d2p1:Value>2016-04-06T07:32:38.5586802-05:00</d2p1:Value>
+    </d2p1:KeyValueOfstringdateTime>
+    <d2p1:KeyValueOfstringdateTime>
+      <d2p1:Key>C:\USERS\OWNER-PC\DOWNLOADS\COMMON7\IDE\EXTENSIONS\3WQGG22F.MQS\Starterkit\Extensions\groovy\snippets\Thread_start { __ }.tmSnippet</d2p1:Key>
+      <d2p1:Value>2016-04-06T07:32:38.561188-05:00</d2p1:Value>
+    </d2p1:KeyValueOfstringdateTime>
+    <d2p1:KeyValueOfstringdateTime>
+      <d2p1:Key>C:\USERS\OWNER-PC\DOWNLOADS\COMMON7\IDE\EXTENSIONS\3WQGG22F.MQS\Starterkit\Extensions\groovy\snippets\Thread_startDaemon { __ } .tmSnippet</d2p1:Key>
+      <d2p1:Value>2016-04-06T07:32:38.5892173-05:00</d2p1:Value>
+    </d2p1:KeyValueOfstringdateTime>
+    <d2p1:KeyValueOfstringdateTime>
+      <d2p1:Key>C:\USERS\OWNER-PC\DOWNLOADS\COMMON7\IDE\EXTENSIONS\3WQGG22F.MQS\Starterkit\Extensions\groovy\snippets\to Array.tmSnippet</d2p1:Key>
+      <d2p1:Value>2016-04-06T07:32:38.5922261-05:00</d2p1:Value>
+    </d2p1:KeyValueOfstringdateTime>
+    <d2p1:KeyValueOfstringdateTime>
+      <d2p1:Key>C:\USERS\OWNER-PC\DOWNLOADS\COMMON7\IDE\EXTENSIONS\3WQGG22F.MQS\Starterkit\Extensions\groovy\snippets\to BigDecimal.tmSnippet</d2p1:Key>
+      <d2p1:Value>2016-04-06T07:32:38.5952333-05:00</d2p1:Value>
+    </d2p1:KeyValueOfstringdateTime>
+    <d2p1:KeyValueOfstringdateTime>
+      <d2p1:Key>C:\USERS\OWNER-PC\DOWNLOADS\COMMON7\IDE\EXTENSIONS\3WQGG22F.MQS\Starterkit\Extensions\groovy\snippets\to BigInteger.tmSnippet</d2p1:Key>
+      <d2p1:Value>2016-04-06T07:32:38.5980177-05:00</d2p1:Value>
+    </d2p1:KeyValueOfstringdateTime>
+    <d2p1:KeyValueOfstringdateTime>
+      <d2p1:Key>C:\USERS\OWNER-PC\DOWNLOADS\COMMON7\IDE\EXTENSIONS\3WQGG22F.MQS\Starterkit\Extensions\groovy\snippets\to Boolean.tmSnippet</d2p1:Key>
+      <d2p1:Value>2016-04-06T07:32:38.6010269-05:00</d2p1:Value>
+    </d2p1:KeyValueOfstringdateTime>
+    <d2p1:KeyValueOfstringdateTime>
+      <d2p1:Key>C:\USERS\OWNER-PC\DOWNLOADS\COMMON7\IDE\EXTENSIONS\3WQGG22F.MQS\Starterkit\Extensions\groovy\snippets\to Character.tmSnippet</d2p1:Key>
+      <d2p1:Value>2016-04-06T07:32:38.6040084-05:00</d2p1:Value>
+    </d2p1:KeyValueOfstringdateTime>
+    <d2p1:KeyValueOfstringdateTime>
+      <d2p1:Key>C:\USERS\OWNER-PC\DOWNLOADS\COMMON7\IDE\EXTENSIONS\3WQGG22F.MQS\Starterkit\Extensions\groovy\snippets\to Double.tmSnippet</d2p1:Key>
+      <d2p1:Value>2016-04-06T07:32:38.6080448-05:00</d2p1:Value>
+    </d2p1:KeyValueOfstringdateTime>
+    <d2p1:KeyValueOfstringdateTime>
+      <d2p1:Key>C:\USERS\OWNER-PC\DOWNLOADS\COMMON7\IDE\EXTENSIONS\3WQGG22F.MQS\Starterkit\Extensions\groovy\snippets\to Float.tmSnippet</d2p1:Key>
+      <d2p1:Value>2016-04-06T07:32:38.6105273-05:00</d2p1:Value>
+    </d2p1:KeyValueOfstringdateTime>
+    <d2p1:KeyValueOfstringdateTime>
+      <d2p1:Key>C:\USERS\OWNER-PC\DOWNLOADS\COMMON7\IDE\EXTENSIONS\3WQGG22F.MQS\Starterkit\Extensions\groovy\snippets\to Integer.tmSnippet</d2p1:Key>
+      <d2p1:Value>2016-04-06T07:32:38.6135709-05:00</d2p1:Value>
+    </d2p1:KeyValueOfstringdateTime>
+    <d2p1:KeyValueOfstringdateTime>
+      <d2p1:Key>C:\USERS\OWNER-PC\DOWNLOADS\COMMON7\IDE\EXTENSIONS\3WQGG22F.MQS\Starterkit\Extensions\groovy\snippets\to List.tmSnippet</d2p1:Key>
+      <d2p1:Value>2016-04-06T07:32:38.6160792-05:00</d2p1:Value>
+    </d2p1:KeyValueOfstringdateTime>
+    <d2p1:KeyValueOfstringdateTime>
+      <d2p1:Key>C:\USERS\OWNER-PC\DOWNLOADS\COMMON7\IDE\EXTENSIONS\3WQGG22F.MQS\Starterkit\Extensions\groovy\snippets\to String.tmSnippet</d2p1:Key>
+      <d2p1:Value>2016-04-06T07:32:38.6185862-05:00</d2p1:Value>
+    </d2p1:KeyValueOfstringdateTime>
+    <d2p1:KeyValueOfstringdateTime>
+      <d2p1:Key>C:\USERS\OWNER-PC\DOWNLOADS\COMMON7\IDE\EXTENSIONS\3WQGG22F.MQS\Starterkit\Extensions\groovy\snippets\to URI.tmSnippet</d2p1:Key>
+      <d2p1:Value>2016-04-06T07:32:38.6225653-05:00</d2p1:Value>
+    </d2p1:KeyValueOfstringdateTime>
+    <d2p1:KeyValueOfstringdateTime>
+      <d2p1:Key>C:\USERS\OWNER-PC\DOWNLOADS\COMMON7\IDE\EXTENSIONS\3WQGG22F.MQS\Starterkit\Extensions\groovy\snippets\to URL.tmSnippet</d2p1:Key>
+      <d2p1:Value>2016-04-06T07:32:38.625567-05:00</d2p1:Value>
+    </d2p1:KeyValueOfstringdateTime>
+    <d2p1:KeyValueOfstringdateTime>
+      <d2p1:Key>C:\USERS\OWNER-PC\DOWNLOADS\COMMON7\IDE\EXTENSIONS\3WQGG22F.MQS\Starterkit\Extensions\java\syntaxes\Java Server Pages (JSP).tmLanguage</d2p1:Key>
+      <d2p1:Value>2016-04-06T07:32:38.7953525-05:00</d2p1:Value>
+    </d2p1:KeyValueOfstringdateTime>
+    <d2p1:KeyValueOfstringdateTime>
+      <d2p1:Key>C:\USERS\OWNER-PC\DOWNLOADS\COMMON7\IDE\EXTENSIONS\3WQGG22F.MQS\Starterkit\Extensions\java\syntaxes\Java.tmLanguage</d2p1:Key>
+      <d2p1:Value>2016-04-06T07:32:38.7993995-05:00</d2p1:Value>
+    </d2p1:KeyValueOfstringdateTime>
+    <d2p1:KeyValueOfstringdateTime>
+      <d2p1:Key>C:\USERS\OWNER-PC\DOWNLOADS\COMMON7\IDE\EXTENSIONS\3WQGG22F.MQS\Starterkit\Extensions\java\syntaxes\JavaProperties.tmLanguage</d2p1:Key>
+      <d2p1:Value>2016-04-06T07:32:38.8028725-05:00</d2p1:Value>
+    </d2p1:KeyValueOfstringdateTime>
+    <d2p1:KeyValueOfstringdateTime>
+      <d2p1:Key>C:\USERS\OWNER-PC\DOWNLOADS\COMMON7\IDE\EXTENSIONS\3WQGG22F.MQS\Starterkit\Extensions\java\syntaxes\JUnit Test Report.tmLanguage</d2p1:Key>
+      <d2p1:Value>2016-04-06T07:32:38.8387386-05:00</d2p1:Value>
+    </d2p1:KeyValueOfstringdateTime>
+    <d2p1:KeyValueOfstringdateTime>
+      <d2p1:Key>C:\USERS\OWNER-PC\DOWNLOADS\COMMON7\IDE\EXTENSIONS\3WQGG22F.MQS\Starterkit\Extensions\java\snippets\abstract.tmSnippet</d2p1:Key>
+      <d2p1:Value>2016-04-06T07:32:38.6325856-05:00</d2p1:Value>
+    </d2p1:KeyValueOfstringdateTime>
+    <d2p1:KeyValueOfstringdateTime>
+      <d2p1:Key>C:\USERS\OWNER-PC\DOWNLOADS\COMMON7\IDE\EXTENSIONS\3WQGG22F.MQS\Starterkit\Extensions\java\snippets\break.tmSnippet</d2p1:Key>
+      <d2p1:Value>2016-04-06T07:32:38.635594-05:00</d2p1:Value>
+    </d2p1:KeyValueOfstringdateTime>
+    <d2p1:KeyValueOfstringdateTime>
+      <d2p1:Key>C:\USERS\OWNER-PC\DOWNLOADS\COMMON7\IDE\EXTENSIONS\3WQGG22F.MQS\Starterkit\Extensions\java\snippets\case.tmSnippet</d2p1:Key>
+      <d2p1:Value>2016-04-06T07:32:38.6396031-05:00</d2p1:Value>
+    </d2p1:KeyValueOfstringdateTime>
+    <d2p1:KeyValueOfstringdateTime>
+      <d2p1:Key>C:\USERS\OWNER-PC\DOWNLOADS\COMMON7\IDE\EXTENSIONS\3WQGG22F.MQS\Starterkit\Extensions\java\snippets\catch.tmSnippet</d2p1:Key>
+      <d2p1:Value>2016-04-06T07:32:38.6436395-05:00</d2p1:Value>
+    </d2p1:KeyValueOfstringdateTime>
+    <d2p1:KeyValueOfstringdateTime>
+      <d2p1:Key>C:\USERS\OWNER-PC\DOWNLOADS\COMMON7\IDE\EXTENSIONS\3WQGG22F.MQS\Starterkit\Extensions\java\snippets\constant string.tmSnippet</d2p1:Key>
+      <d2p1:Value>2016-04-06T07:32:38.6461221-05:00</d2p1:Value>
+    </d2p1:KeyValueOfstringdateTime>
+    <d2p1:KeyValueOfstringdateTime>
+      <d2p1:Key>C:\USERS\OWNER-PC\DOWNLOADS\COMMON7\IDE\EXTENSIONS\3WQGG22F.MQS\Starterkit\Extensions\java\snippets\constant.tmSnippet</d2p1:Key>
+      <d2p1:Value>2016-04-06T07:32:38.6491301-05:00</d2p1:Value>
+    </d2p1:KeyValueOfstringdateTime>
+    <d2p1:KeyValueOfstringdateTime>
+      <d2p1:Key>C:\USERS\OWNER-PC\DOWNLOADS\COMMON7\IDE\EXTENSIONS\3WQGG22F.MQS\Starterkit\Extensions\java\snippets\default.tmSnippet</d2p1:Key>
+      <d2p1:Value>2016-04-06T07:32:38.6516363-05:00</d2p1:Value>
+    </d2p1:KeyValueOfstringdateTime>
+    <d2p1:KeyValueOfstringdateTime>
+      <d2p1:Key>C:\USERS\OWNER-PC\DOWNLOADS\COMMON7\IDE\EXTENSIONS\3WQGG22F.MQS\Starterkit\Extensions\java\snippets\else if.tmSnippet</d2p1:Key>
+      <d2p1:Value>2016-04-06T07:32:38.6546439-05:00</d2p1:Value>
+    </d2p1:KeyValueOfstringdateTime>
+    <d2p1:KeyValueOfstringdateTime>
+      <d2p1:Key>C:\USERS\OWNER-PC\DOWNLOADS\COMMON7\IDE\EXTENSIONS\3WQGG22F.MQS\Starterkit\Extensions\java\snippets\else.tmSnippet</d2p1:Key>
+      <d2p1:Value>2016-04-06T07:32:38.6581912-05:00</d2p1:Value>
+    </d2p1:KeyValueOfstringdateTime>
+    <d2p1:KeyValueOfstringdateTime>
+      <d2p1:Key>C:\USERS\OWNER-PC\DOWNLOADS\COMMON7\IDE\EXTENSIONS\3WQGG22F.MQS\Starterkit\Extensions\java\snippets\final.tmSnippet</d2p1:Key>
+      <d2p1:Value>2016-04-06T07:32:38.6616626-05:00</d2p1:Value>
+    </d2p1:KeyValueOfstringdateTime>
+    <d2p1:KeyValueOfstringdateTime>
+      <d2p1:Key>C:\USERS\OWNER-PC\DOWNLOADS\COMMON7\IDE\EXTENSIONS\3WQGG22F.MQS\Starterkit\Extensions\java\snippets\finally.tmSnippet</d2p1:Key>
+      <d2p1:Value>2016-04-06T07:32:38.6646714-05:00</d2p1:Value>
+    </d2p1:KeyValueOfstringdateTime>
+    <d2p1:KeyValueOfstringdateTime>
+      <d2p1:Key>C:\USERS\OWNER-PC\DOWNLOADS\COMMON7\IDE\EXTENSIONS\3WQGG22F.MQS\Starterkit\Extensions\java\snippets\for (each).tmSnippet</d2p1:Key>
+      <d2p1:Value>2016-04-06T07:32:38.700903-05:00</d2p1:Value>
+    </d2p1:KeyValueOfstringdateTime>
+    <d2p1:KeyValueOfstringdateTime>
+      <d2p1:Key>C:\USERS\OWNER-PC\DOWNLOADS\COMMON7\IDE\EXTENSIONS\3WQGG22F.MQS\Starterkit\Extensions\java\snippets\for.tmSnippet</d2p1:Key>
+      <d2p1:Value>2016-04-06T07:32:38.7034076-05:00</d2p1:Value>
+    </d2p1:KeyValueOfstringdateTime>
+    <d2p1:KeyValueOfstringdateTime>
+      <d2p1:Key>C:\USERS\OWNER-PC\DOWNLOADS\COMMON7\IDE\EXTENSIONS\3WQGG22F.MQS\Starterkit\Extensions\java\snippets\if.tmSnippet</d2p1:Key>
+      <d2p1:Value>2016-04-06T07:32:38.707384-05:00</d2p1:Value>
+    </d2p1:KeyValueOfstringdateTime>
+    <d2p1:KeyValueOfstringdateTime>
+      <d2p1:Key>C:\USERS\OWNER-PC\DOWNLOADS\COMMON7\IDE\EXTENSIONS\3WQGG22F.MQS\Starterkit\Extensions\java\snippets\import junit_framework_TestCase;.tmSnippet</d2p1:Key>
+      <d2p1:Value>2016-04-06T07:32:38.7098902-05:00</d2p1:Value>
+    </d2p1:KeyValueOfstringdateTime>
+    <d2p1:KeyValueOfstringdateTime>
+      <d2p1:Key>C:\USERS\OWNER-PC\DOWNLOADS\COMMON7\IDE\EXTENSIONS\3WQGG22F.MQS\Starterkit\Extensions\java\snippets\import.tmSnippet</d2p1:Key>
+      <d2p1:Value>2016-04-06T07:32:38.7128986-05:00</d2p1:Value>
+    </d2p1:KeyValueOfstringdateTime>
+    <d2p1:KeyValueOfstringdateTime>
+      <d2p1:Key>C:\USERS\OWNER-PC\DOWNLOADS\COMMON7\IDE\EXTENSIONS\3WQGG22F.MQS\Starterkit\Extensions\java\snippets\method (main).tmSnippet</d2p1:Key>
+      <d2p1:Value>2016-04-06T07:32:38.7154385-05:00</d2p1:Value>
+    </d2p1:KeyValueOfstringdateTime>
+    <d2p1:KeyValueOfstringdateTime>
+      <d2p1:Key>C:\USERS\OWNER-PC\DOWNLOADS\COMMON7\IDE\EXTENSIONS\3WQGG22F.MQS\Starterkit\Extensions\java\snippets\print.tmSnippet</d2p1:Key>
+      <d2p1:Value>2016-04-06T07:32:38.7196909-05:00</d2p1:Value>
+    </d2p1:KeyValueOfstringdateTime>
+    <d2p1:KeyValueOfstringdateTime>
+      <d2p1:Key>C:\USERS\OWNER-PC\DOWNLOADS\COMMON7\IDE\EXTENSIONS\3WQGG22F.MQS\Starterkit\Extensions\java\snippets\println.tmSnippet</d2p1:Key>
+      <d2p1:Value>2016-04-06T07:32:38.7256967-05:00</d2p1:Value>
+    </d2p1:KeyValueOfstringdateTime>
+    <d2p1:KeyValueOfstringdateTime>
+      <d2p1:Key>C:\USERS\OWNER-PC\DOWNLOADS\COMMON7\IDE\EXTENSIONS\3WQGG22F.MQS\Starterkit\Extensions\java\snippets\private.tmSnippet</d2p1:Key>
+      <d2p1:Value>2016-04-06T07:32:38.7291799-05:00</d2p1:Value>
+    </d2p1:KeyValueOfstringdateTime>
+    <d2p1:KeyValueOfstringdateTime>
+      <d2p1:Key>C:\USERS\OWNER-PC\DOWNLOADS\COMMON7\IDE\EXTENSIONS\3WQGG22F.MQS\Starterkit\Extensions\java\snippets\protected.tmSnippet</d2p1:Key>
+      <d2p1:Value>2016-04-06T07:32:38.7587626-05:00</d2p1:Value>
+    </d2p1:KeyValueOfstringdateTime>
+    <d2p1:KeyValueOfstringdateTime>
+      <d2p1:Key>C:\USERS\OWNER-PC\DOWNLOADS\COMMON7\IDE\EXTENSIONS\3WQGG22F.MQS\Starterkit\Extensions\java\snippets\public.tmSnippet</d2p1:Key>
+      <d2p1:Value>2016-04-06T07:32:38.7612981-05:00</d2p1:Value>
+    </d2p1:KeyValueOfstringdateTime>
+    <d2p1:KeyValueOfstringdateTime>
+      <d2p1:Key>C:\USERS\OWNER-PC\DOWNLOADS\COMMON7\IDE\EXTENSIONS\3WQGG22F.MQS\Starterkit\Extensions\java\snippets\return.tmSnippet</d2p1:Key>
+      <d2p1:Value>2016-04-06T07:32:38.7642694-05:00</d2p1:Value>
+    </d2p1:KeyValueOfstringdateTime>
+    <d2p1:KeyValueOfstringdateTime>
+      <d2p1:Key>C:\USERS\OWNER-PC\DOWNLOADS\COMMON7\IDE\EXTENSIONS\3WQGG22F.MQS\Starterkit\Extensions\java\snippets\static.tmSnippet</d2p1:Key>
+      <d2p1:Value>2016-04-06T07:32:38.7677791-05:00</d2p1:Value>
+    </d2p1:KeyValueOfstringdateTime>
+    <d2p1:KeyValueOfstringdateTime>
+      <d2p1:Key>C:\USERS\OWNER-PC\DOWNLOADS\COMMON7\IDE\EXTENSIONS\3WQGG22F.MQS\Starterkit\Extensions\java\snippets\switch.tmSnippet</d2p1:Key>
+      <d2p1:Value>2016-04-06T07:32:38.7702854-05:00</d2p1:Value>
+    </d2p1:KeyValueOfstringdateTime>
+    <d2p1:KeyValueOfstringdateTime>
+      <d2p1:Key>C:\USERS\OWNER-PC\DOWNLOADS\COMMON7\IDE\EXTENSIONS\3WQGG22F.MQS\Starterkit\Extensions\java\snippets\synchronized.tmSnippet</d2p1:Key>
+      <d2p1:Value>2016-04-06T07:32:38.7758-05:00</d2p1:Value>
+    </d2p1:KeyValueOfstringdateTime>
+    <d2p1:KeyValueOfstringdateTime>
+      <d2p1:Key>C:\USERS\OWNER-PC\DOWNLOADS\COMMON7\IDE\EXTENSIONS\3WQGG22F.MQS\Starterkit\Extensions\java\snippets\test.tmSnippet</d2p1:Key>
+      <d2p1:Value>2016-04-06T07:32:38.7788333-05:00</d2p1:Value>
+    </d2p1:KeyValueOfstringdateTime>
+    <d2p1:KeyValueOfstringdateTime>
+      <d2p1:Key>C:\USERS\OWNER-PC\DOWNLOADS\COMMON7\IDE\EXTENSIONS\3WQGG22F.MQS\Starterkit\Extensions\java\snippets\throw new.tmSnippet</d2p1:Key>
+      <d2p1:Value>2016-04-06T07:32:38.781816-05:00</d2p1:Value>
+    </d2p1:KeyValueOfstringdateTime>
+    <d2p1:KeyValueOfstringdateTime>
+      <d2p1:Key>C:\USERS\OWNER-PC\DOWNLOADS\COMMON7\IDE\EXTENSIONS\3WQGG22F.MQS\Starterkit\Extensions\java\snippets\throw.tmSnippet</d2p1:Key>
+      <d2p1:Value>2016-04-06T07:32:38.7843231-05:00</d2p1:Value>
+    </d2p1:KeyValueOfstringdateTime>
+    <d2p1:KeyValueOfstringdateTime>
+      <d2p1:Key>C:\USERS\OWNER-PC\DOWNLOADS\COMMON7\IDE\EXTENSIONS\3WQGG22F.MQS\Starterkit\Extensions\java\snippets\try.tmSnippet</d2p1:Key>
+      <d2p1:Value>2016-04-06T07:32:38.7873311-05:00</d2p1:Value>
+    </d2p1:KeyValueOfstringdateTime>
+    <d2p1:KeyValueOfstringdateTime>
+      <d2p1:Key>C:\USERS\OWNER-PC\DOWNLOADS\COMMON7\IDE\EXTENSIONS\3WQGG22F.MQS\Starterkit\Extensions\java\snippets\while.tmSnippet</d2p1:Key>
+      <d2p1:Value>2016-04-06T07:32:38.7913426-05:00</d2p1:Value>
+    </d2p1:KeyValueOfstringdateTime>
+    <d2p1:KeyValueOfstringdateTime>
+      <d2p1:Key>C:\USERS\OWNER-PC\DOWNLOADS\COMMON7\IDE\EXTENSIONS\3WQGG22F.MQS\Starterkit\Extensions\javadoc\syntaxes\JavaDoc.tmLanguage</d2p1:Key>
+      <d2p1:Value>2016-04-06T07:32:38.8427489-05:00</d2p1:Value>
+    </d2p1:KeyValueOfstringdateTime>
+    <d2p1:KeyValueOfstringdateTime>
+      <d2p1:Key>C:\USERS\OWNER-PC\DOWNLOADS\COMMON7\IDE\EXTENSIONS\3WQGG22F.MQS\Starterkit\Extensions\lua\syntaxes\Lua.plist</d2p1:Key>
+      <d2p1:Value>2016-04-06T07:32:38.8656407-05:00</d2p1:Value>
+    </d2p1:KeyValueOfstringdateTime>
+    <d2p1:KeyValueOfstringdateTime>
+      <d2p1:Key>C:\USERS\OWNER-PC\DOWNLOADS\COMMON7\IDE\EXTENSIONS\3WQGG22F.MQS\Starterkit\Extensions\lua\snippets\for i,v in ipairs().plist</d2p1:Key>
+      <d2p1:Value>2016-04-06T07:32:38.8462977-05:00</d2p1:Value>
+    </d2p1:KeyValueOfstringdateTime>
+    <d2p1:KeyValueOfstringdateTime>
+      <d2p1:Key>C:\USERS\OWNER-PC\DOWNLOADS\COMMON7\IDE\EXTENSIONS\3WQGG22F.MQS\Starterkit\Extensions\lua\snippets\for i=1,10.plist</d2p1:Key>
+      <d2p1:Value>2016-04-06T07:32:38.8487664-05:00</d2p1:Value>
+    </d2p1:KeyValueOfstringdateTime>
+    <d2p1:KeyValueOfstringdateTime>
+      <d2p1:Key>C:\USERS\OWNER-PC\DOWNLOADS\COMMON7\IDE\EXTENSIONS\3WQGG22F.MQS\Starterkit\Extensions\lua\snippets\for k,v in pairs().plist</d2p1:Key>
+      <d2p1:Value>2016-04-06T07:32:38.8516421-05:00</d2p1:Value>
+    </d2p1:KeyValueOfstringdateTime>
+    <d2p1:KeyValueOfstringdateTime>
+      <d2p1:Key>C:\USERS\OWNER-PC\DOWNLOADS\COMMON7\IDE\EXTENSIONS\3WQGG22F.MQS\Starterkit\Extensions\lua\snippets\function (fun).plist</d2p1:Key>
+      <d2p1:Value>2016-04-06T07:32:38.8561154-05:00</d2p1:Value>
+    </d2p1:KeyValueOfstringdateTime>
+    <d2p1:KeyValueOfstringdateTime>
+      <d2p1:Key>C:\USERS\OWNER-PC\DOWNLOADS\COMMON7\IDE\EXTENSIONS\3WQGG22F.MQS\Starterkit\Extensions\lua\snippets\function (function).plist</d2p1:Key>
+      <d2p1:Value>2016-04-06T07:32:38.8591254-05:00</d2p1:Value>
+    </d2p1:KeyValueOfstringdateTime>
+    <d2p1:KeyValueOfstringdateTime>
+      <d2p1:Key>C:\USERS\OWNER-PC\DOWNLOADS\COMMON7\IDE\EXTENSIONS\3WQGG22F.MQS\Starterkit\Extensions\lua\snippets\local x = 1.plist</d2p1:Key>
+      <d2p1:Value>2016-04-06T07:32:38.8616372-05:00</d2p1:Value>
+    </d2p1:KeyValueOfstringdateTime>
+    <d2p1:KeyValueOfstringdateTime>
+      <d2p1:Key>C:\USERS\OWNER-PC\DOWNLOADS\COMMON7\IDE\EXTENSIONS\3WQGG22F.MQS\Starterkit\Extensions\make\syntaxes\Makefile.plist</d2p1:Key>
+      <d2p1:Value>2016-04-06T07:32:38.8695404-05:00</d2p1:Value>
+    </d2p1:KeyValueOfstringdateTime>
+    <d2p1:KeyValueOfstringdateTime>
+      <d2p1:Key>C:\USERS\OWNER-PC\DOWNLOADS\COMMON7\IDE\EXTENSIONS\3WQGG22F.MQS\Starterkit\Extensions\markdown\syntaxes\Markdown.tmLanguage</d2p1:Key>
+      <d2p1:Value>2016-04-06T07:32:38.8755829-05:00</d2p1:Value>
+    </d2p1:KeyValueOfstringdateTime>
+    <d2p1:KeyValueOfstringdateTime>
+      <d2p1:Key>C:\USERS\OWNER-PC\DOWNLOADS\COMMON7\IDE\EXTENSIONS\3WQGG22F.MQS\Starterkit\Extensions\perl\syntaxes\Perl.tmLanguage</d2p1:Key>
+      <d2p1:Value>2016-04-06T07:32:38.9241526-05:00</d2p1:Value>
+    </d2p1:KeyValueOfstringdateTime>
+    <d2p1:KeyValueOfstringdateTime>
+      <d2p1:Key>C:\USERS\OWNER-PC\DOWNLOADS\COMMON7\IDE\EXTENSIONS\3WQGG22F.MQS\Starterkit\Extensions\perl\snippets\Conditional if..else (ife).plist</d2p1:Key>
+      <d2p1:Value>2016-04-06T07:32:38.8791021-05:00</d2p1:Value>
+    </d2p1:KeyValueOfstringdateTime>
+    <d2p1:KeyValueOfstringdateTime>
+      <d2p1:Key>C:\USERS\OWNER-PC\DOWNLOADS\COMMON7\IDE\EXTENSIONS\3WQGG22F.MQS\Starterkit\Extensions\perl\snippets\Conditional if..elsif..else (ifee).plist</d2p1:Key>
+      <d2p1:Value>2016-04-06T07:32:38.8814966-05:00</d2p1:Value>
+    </d2p1:KeyValueOfstringdateTime>
+    <d2p1:KeyValueOfstringdateTime>
+      <d2p1:Key>C:\USERS\OWNER-PC\DOWNLOADS\COMMON7\IDE\EXTENSIONS\3WQGG22F.MQS\Starterkit\Extensions\perl\snippets\Conditional one-line (unless).plist</d2p1:Key>
+      <d2p1:Value>2016-04-06T07:32:38.8855222-05:00</d2p1:Value>
+    </d2p1:KeyValueOfstringdateTime>
+    <d2p1:KeyValueOfstringdateTime>
+      <d2p1:Key>C:\USERS\OWNER-PC\DOWNLOADS\COMMON7\IDE\EXTENSIONS\3WQGG22F.MQS\Starterkit\Extensions\perl\snippets\Conditional one-line (xif).plist</d2p1:Key>
+      <d2p1:Value>2016-04-06T07:32:38.8885156-05:00</d2p1:Value>
+    </d2p1:KeyValueOfstringdateTime>
+    <d2p1:KeyValueOfstringdateTime>
+      <d2p1:Key>C:\USERS\OWNER-PC\DOWNLOADS\COMMON7\IDE\EXTENSIONS\3WQGG22F.MQS\Starterkit\Extensions\perl\snippets\eval.plist</d2p1:Key>
+      <d2p1:Value>2016-04-06T07:32:38.8915248-05:00</d2p1:Value>
+    </d2p1:KeyValueOfstringdateTime>
+    <d2p1:KeyValueOfstringdateTime>
+      <d2p1:Key>C:\USERS\OWNER-PC\DOWNLOADS\COMMON7\IDE\EXTENSIONS\3WQGG22F.MQS\Starterkit\Extensions\perl\snippets\for.plist</d2p1:Key>
+      <d2p1:Value>2016-04-06T07:32:38.8945565-05:00</d2p1:Value>
+    </d2p1:KeyValueOfstringdateTime>
+    <d2p1:KeyValueOfstringdateTime>
+      <d2p1:Key>C:\USERS\OWNER-PC\DOWNLOADS\COMMON7\IDE\EXTENSIONS\3WQGG22F.MQS\Starterkit\Extensions\perl\snippets\Function (sub).plist</d2p1:Key>
+      <d2p1:Value>2016-04-06T07:32:38.8975645-05:00</d2p1:Value>
+    </d2p1:KeyValueOfstringdateTime>
+    <d2p1:KeyValueOfstringdateTime>
+      <d2p1:Key>C:\USERS\OWNER-PC\DOWNLOADS\COMMON7\IDE\EXTENSIONS\3WQGG22F.MQS\Starterkit\Extensions\perl\snippets\if.plist</d2p1:Key>
+      <d2p1:Value>2016-04-06T07:32:38.9000712-05:00</d2p1:Value>
+    </d2p1:KeyValueOfstringdateTime>
+    <d2p1:KeyValueOfstringdateTime>
+      <d2p1:Key>C:\USERS\OWNER-PC\DOWNLOADS\COMMON7\IDE\EXTENSIONS\3WQGG22F.MQS\Starterkit\Extensions\perl\snippets\Loop one-line (xforeach).plist</d2p1:Key>
+      <d2p1:Value>2016-04-06T07:32:38.9035564-05:00</d2p1:Value>
+    </d2p1:KeyValueOfstringdateTime>
+    <d2p1:KeyValueOfstringdateTime>
+      <d2p1:Key>C:\USERS\OWNER-PC\DOWNLOADS\COMMON7\IDE\EXTENSIONS\3WQGG22F.MQS\Starterkit\Extensions\perl\snippets\Loop one-line (xwhile).plist</d2p1:Key>
+      <d2p1:Value>2016-04-06T07:32:38.9070662-05:00</d2p1:Value>
+    </d2p1:KeyValueOfstringdateTime>
+    <d2p1:KeyValueOfstringdateTime>
+      <d2p1:Key>C:\USERS\OWNER-PC\DOWNLOADS\COMMON7\IDE\EXTENSIONS\3WQGG22F.MQS\Starterkit\Extensions\perl\snippets\slurp.plist</d2p1:Key>
+      <d2p1:Value>2016-04-06T07:32:38.9095748-05:00</d2p1:Value>
+    </d2p1:KeyValueOfstringdateTime>
+    <d2p1:KeyValueOfstringdateTime>
+      <d2p1:Key>C:\USERS\OWNER-PC\DOWNLOADS\COMMON7\IDE\EXTENSIONS\3WQGG22F.MQS\Starterkit\Extensions\perl\snippets\Test.tmSnippet</d2p1:Key>
+      <d2p1:Value>2016-04-06T07:32:38.9121206-05:00</d2p1:Value>
+    </d2p1:KeyValueOfstringdateTime>
+    <d2p1:KeyValueOfstringdateTime>
+      <d2p1:Key>C:\USERS\OWNER-PC\DOWNLOADS\COMMON7\IDE\EXTENSIONS\3WQGG22F.MQS\Starterkit\Extensions\perl\snippets\unless.plist</d2p1:Key>
+      <d2p1:Value>2016-04-06T07:32:38.9146533-05:00</d2p1:Value>
+    </d2p1:KeyValueOfstringdateTime>
+    <d2p1:KeyValueOfstringdateTime>
+      <d2p1:Key>C:\USERS\OWNER-PC\DOWNLOADS\COMMON7\IDE\EXTENSIONS\3WQGG22F.MQS\Starterkit\Extensions\perl\snippets\while.plist</d2p1:Key>
+      <d2p1:Value>2016-04-06T07:32:38.9171339-05:00</d2p1:Value>
+    </d2p1:KeyValueOfstringdateTime>
+    <d2p1:KeyValueOfstringdateTime>
+      <d2p1:Key>C:\USERS\OWNER-PC\DOWNLOADS\COMMON7\IDE\EXTENSIONS\3WQGG22F.MQS\Starterkit\Extensions\r\syntaxes\R.plist</d2p1:Key>
+      <d2p1:Value>2016-04-06T07:32:38.9286646-05:00</d2p1:Value>
+    </d2p1:KeyValueOfstringdateTime>
+    <d2p1:KeyValueOfstringdateTime>
+      <d2p1:Key>C:\USERS\OWNER-PC\DOWNLOADS\COMMON7\IDE\EXTENSIONS\3WQGG22F.MQS\Starterkit\Extensions\r\syntaxes\Rd (R Documentation).tmLanguage</d2p1:Key>
+      <d2p1:Value>2016-04-06T07:32:38.9321755-05:00</d2p1:Value>
+    </d2p1:KeyValueOfstringdateTime>
+    <d2p1:KeyValueOfstringdateTime>
+      <d2p1:Key>C:\USERS\OWNER-PC\DOWNLOADS\COMMON7\IDE\EXTENSIONS\3WQGG22F.MQS\Starterkit\Extensions\ruby\syntaxes\Ruby.tmLanguage</d2p1:Key>
+      <d2p1:Value>2016-04-06T07:32:39.0987337-05:00</d2p1:Value>
+    </d2p1:KeyValueOfstringdateTime>
+    <d2p1:KeyValueOfstringdateTime>
+      <d2p1:Key>C:\USERS\OWNER-PC\DOWNLOADS\COMMON7\IDE\EXTENSIONS\3WQGG22F.MQS\Starterkit\Extensions\ruby\snippets\060 ruby if else.plist</d2p1:Key>
+      <d2p1:Value>2016-04-06T07:32:38.9351819-05:00</d2p1:Value>
+    </d2p1:KeyValueOfstringdateTime>
+    <d2p1:KeyValueOfstringdateTime>
+      <d2p1:Key>C:\USERS\OWNER-PC\DOWNLOADS\COMMON7\IDE\EXTENSIONS\3WQGG22F.MQS\Starterkit\Extensions\ruby\snippets\070 ruby if.plist</d2p1:Key>
+      <d2p1:Value>2016-04-06T07:32:38.9381919-05:00</d2p1:Value>
+    </d2p1:KeyValueOfstringdateTime>
+    <d2p1:KeyValueOfstringdateTime>
+      <d2p1:Key>C:\USERS\OWNER-PC\DOWNLOADS\COMMON7\IDE\EXTENSIONS\3WQGG22F.MQS\Starterkit\Extensions\ruby\snippets\080 ruby case.plist</d2p1:Key>
+      <d2p1:Value>2016-04-06T07:32:38.9411999-05:00</d2p1:Value>
+    </d2p1:KeyValueOfstringdateTime>
+    <d2p1:KeyValueOfstringdateTime>
+      <d2p1:Key>C:\USERS\OWNER-PC\DOWNLOADS\COMMON7\IDE\EXTENSIONS\3WQGG22F.MQS\Starterkit\Extensions\ruby\snippets\alias_method ..  (am).plist</d2p1:Key>
+      <d2p1:Value>2016-04-06T07:32:38.9447089-05:00</d2p1:Value>
+    </d2p1:KeyValueOfstringdateTime>
+    <d2p1:KeyValueOfstringdateTime>
+      <d2p1:Key>C:\USERS\OWNER-PC\DOWNLOADS\COMMON7\IDE\EXTENSIONS\3WQGG22F.MQS\Starterkit\Extensions\ruby\snippets\application_code ..  (app).plist</d2p1:Key>
+      <d2p1:Value>2016-04-06T07:32:38.947214-05:00</d2p1:Value>
+    </d2p1:KeyValueOfstringdateTime>
+    <d2p1:KeyValueOfstringdateTime>
+      <d2p1:Key>C:\USERS\OWNER-PC\DOWNLOADS\COMMON7\IDE\EXTENSIONS\3WQGG22F.MQS\Starterkit\Extensions\ruby\snippets\assert_nothing_raised(..) { .. }  (asnr).plist</d2p1:Key>
+      <d2p1:Value>2016-04-06T07:32:38.9502476-05:00</d2p1:Value>
+    </d2p1:KeyValueOfstringdateTime>
+    <d2p1:KeyValueOfstringdateTime>
+      <d2p1:Key>C:\USERS\OWNER-PC\DOWNLOADS\COMMON7\IDE\EXTENSIONS\3WQGG22F.MQS\Starterkit\Extensions\ruby\snippets\assert_nothing_thrown { .. }  (asnt).plist</d2p1:Key>
+      <d2p1:Value>2016-04-06T07:32:38.952729-05:00</d2p1:Value>
+    </d2p1:KeyValueOfstringdateTime>
+    <d2p1:KeyValueOfstringdateTime>
+      <d2p1:Key>C:\USERS\OWNER-PC\DOWNLOADS\COMMON7\IDE\EXTENSIONS\3WQGG22F.MQS\Starterkit\Extensions\ruby\snippets\assert_raise(..) { .. }  (asr).plist</d2p1:Key>
+      <d2p1:Value>2016-04-06T07:32:38.9567397-05:00</d2p1:Value>
+    </d2p1:KeyValueOfstringdateTime>
+    <d2p1:KeyValueOfstringdateTime>
+      <d2p1:Key>C:\USERS\OWNER-PC\DOWNLOADS\COMMON7\IDE\EXTENSIONS\3WQGG22F.MQS\Starterkit\Extensions\ruby\snippets\assert_throws(..) { .. }  (ast).plist</d2p1:Key>
+      <d2p1:Value>2016-04-06T07:32:38.9597473-05:00</d2p1:Value>
+    </d2p1:KeyValueOfstringdateTime>
+    <d2p1:KeyValueOfstringdateTime>
+      <d2p1:Key>C:\USERS\OWNER-PC\DOWNLOADS\COMMON7\IDE\EXTENSIONS\3WQGG22F.MQS\Starterkit\Extensions\ruby\snippets\attr_accessor ..  (rw).plist</d2p1:Key>
+      <d2p1:Value>2016-04-06T07:32:38.9622544-05:00</d2p1:Value>
+    </d2p1:KeyValueOfstringdateTime>
+    <d2p1:KeyValueOfstringdateTime>
+      <d2p1:Key>C:\USERS\OWNER-PC\DOWNLOADS\COMMON7\IDE\EXTENSIONS\3WQGG22F.MQS\Starterkit\Extensions\ruby\snippets\attr_reader ..  (r).plist</d2p1:Key>
+      <d2p1:Value>2016-04-06T07:32:38.965262-05:00</d2p1:Value>
+    </d2p1:KeyValueOfstringdateTime>
+    <d2p1:KeyValueOfstringdateTime>
+      <d2p1:Key>C:\USERS\OWNER-PC\DOWNLOADS\COMMON7\IDE\EXTENSIONS\3WQGG22F.MQS\Starterkit\Extensions\ruby\snippets\attr_writer ..  (w).plist</d2p1:Key>
+      <d2p1:Value>2016-04-06T07:32:38.9676553-05:00</d2p1:Value>
+    </d2p1:KeyValueOfstringdateTime>
+    <d2p1:KeyValueOfstringdateTime>
+      <d2p1:Key>C:\USERS\OWNER-PC\DOWNLOADS\COMMON7\IDE\EXTENSIONS\3WQGG22F.MQS\Starterkit\Extensions\ruby\snippets\class_from_name()  (clafn).plist</d2p1:Key>
+      <d2p1:Value>2016-04-06T07:32:38.9706633-05:00</d2p1:Value>
+    </d2p1:KeyValueOfstringdateTime>
+    <d2p1:KeyValueOfstringdateTime>
+      <d2p1:Key>C:\USERS\OWNER-PC\DOWNLOADS\COMMON7\IDE\EXTENSIONS\3WQGG22F.MQS\Starterkit\Extensions\ruby\snippets\deep_copy(..)  (dee).plist</d2p1:Key>
+      <d2p1:Value>2016-04-06T07:32:38.9746743-05:00</d2p1:Value>
+    </d2p1:KeyValueOfstringdateTime>
+    <d2p1:KeyValueOfstringdateTime>
+      <d2p1:Key>C:\USERS\OWNER-PC\DOWNLOADS\COMMON7\IDE\EXTENSIONS\3WQGG22F.MQS\Starterkit\Extensions\ruby\snippets\def end.plist</d2p1:Key>
+      <d2p1:Value>2016-04-06T07:32:38.9781845-05:00</d2p1:Value>
+    </d2p1:KeyValueOfstringdateTime>
+    <d2p1:KeyValueOfstringdateTime>
+      <d2p1:Key>C:\USERS\OWNER-PC\DOWNLOADS\COMMON7\IDE\EXTENSIONS\3WQGG22F.MQS\Starterkit\Extensions\ruby\snippets\def method_missing .. end  (mm).plist</d2p1:Key>
+      <d2p1:Value>2016-04-06T07:32:38.9808393-05:00</d2p1:Value>
+    </d2p1:KeyValueOfstringdateTime>
+    <d2p1:KeyValueOfstringdateTime>
+      <d2p1:Key>C:\USERS\OWNER-PC\DOWNLOADS\COMMON7\IDE\EXTENSIONS\3WQGG22F.MQS\Starterkit\Extensions\ruby\snippets\def self .. end  (defs).plist</d2p1:Key>
+      <d2p1:Value>2016-04-06T07:32:38.9838718-05:00</d2p1:Value>
+    </d2p1:KeyValueOfstringdateTime>
+    <d2p1:KeyValueOfstringdateTime>
+      <d2p1:Key>C:\USERS\OWNER-PC\DOWNLOADS\COMMON7\IDE\EXTENSIONS\3WQGG22F.MQS\Starterkit\Extensions\ruby\snippets\def test_ .. end  (t).plist</d2p1:Key>
+      <d2p1:Value>2016-04-06T07:32:38.9863785-05:00</d2p1:Value>
+    </d2p1:KeyValueOfstringdateTime>
+    <d2p1:KeyValueOfstringdateTime>
+      <d2p1:Key>C:\USERS\OWNER-PC\DOWNLOADS\COMMON7\IDE\EXTENSIONS\3WQGG22F.MQS\Starterkit\Extensions\ruby\snippets\def_delegator .. (defd).plist</d2p1:Key>
+      <d2p1:Value>2016-04-06T07:32:38.9898613-05:00</d2p1:Value>
+    </d2p1:KeyValueOfstringdateTime>
+    <d2p1:KeyValueOfstringdateTime>
+      <d2p1:Key>C:\USERS\OWNER-PC\DOWNLOADS\COMMON7\IDE\EXTENSIONS\3WQGG22F.MQS\Starterkit\Extensions\ruby\snippets\def_delegators .. (defds).plist</d2p1:Key>
+      <d2p1:Value>2016-04-06T07:32:38.992368-05:00</d2p1:Value>
+    </d2p1:KeyValueOfstringdateTime>
+    <d2p1:KeyValueOfstringdateTime>
+      <d2p1:Key>C:\USERS\OWNER-PC\DOWNLOADS\COMMON7\IDE\EXTENSIONS\3WQGG22F.MQS\Starterkit\Extensions\ruby\snippets\directory().tmSnippet</d2p1:Key>
+      <d2p1:Value>2016-04-06T07:32:38.995376-05:00</d2p1:Value>
+    </d2p1:KeyValueOfstringdateTime>
+    <d2p1:KeyValueOfstringdateTime>
+      <d2p1:Key>C:\USERS\OWNER-PC\DOWNLOADS\COMMON7\IDE\EXTENSIONS\3WQGG22F.MQS\Starterkit\Extensions\ruby\snippets\elsif ___.tmSnippet</d2p1:Key>
+      <d2p1:Value>2016-04-06T07:32:38.9978827-05:00</d2p1:Value>
+    </d2p1:KeyValueOfstringdateTime>
+    <d2p1:KeyValueOfstringdateTime>
+      <d2p1:Key>C:\USERS\OWNER-PC\DOWNLOADS\COMMON7\IDE\EXTENSIONS\3WQGG22F.MQS\Starterkit\Extensions\ruby\snippets\encoding_  UTF-8.tmSnippet</d2p1:Key>
+      <d2p1:Value>2016-04-06T07:32:39.0003893-05:00</d2p1:Value>
+    </d2p1:KeyValueOfstringdateTime>
+    <d2p1:KeyValueOfstringdateTime>
+      <d2p1:Key>C:\USERS\OWNER-PC\DOWNLOADS\COMMON7\IDE\EXTENSIONS\3WQGG22F.MQS\Starterkit\Extensions\ruby\snippets\flatten_once  (fla).plist</d2p1:Key>
+      <d2p1:Value>2016-04-06T07:32:39.0033985-05:00</d2p1:Value>
+    </d2p1:KeyValueOfstringdateTime>
+    <d2p1:KeyValueOfstringdateTime>
+      <d2p1:Key>C:\USERS\OWNER-PC\DOWNLOADS\COMMON7\IDE\EXTENSIONS\3WQGG22F.MQS\Starterkit\Extensions\ruby\snippets\include Comparable ..  (Comp).plist</d2p1:Key>
+      <d2p1:Value>2016-04-06T07:32:39.0084423-05:00</d2p1:Value>
+    </d2p1:KeyValueOfstringdateTime>
+    <d2p1:KeyValueOfstringdateTime>
+      <d2p1:Key>C:\USERS\OWNER-PC\DOWNLOADS\COMMON7\IDE\EXTENSIONS\3WQGG22F.MQS\Starterkit\Extensions\ruby\snippets\include Enumerable ..  (Enum).plist</d2p1:Key>
+      <d2p1:Value>2016-04-06T07:32:39.0109177-05:00</d2p1:Value>
+    </d2p1:KeyValueOfstringdateTime>
+    <d2p1:KeyValueOfstringdateTime>
+      <d2p1:Key>C:\USERS\OWNER-PC\DOWNLOADS\COMMON7\IDE\EXTENSIONS\3WQGG22F.MQS\Starterkit\Extensions\ruby\snippets\inspect.tmSnippet</d2p1:Key>
+      <d2p1:Value>2016-04-06T07:32:39.013424-05:00</d2p1:Value>
+    </d2p1:KeyValueOfstringdateTime>
+    <d2p1:KeyValueOfstringdateTime>
+      <d2p1:Key>C:\USERS\OWNER-PC\DOWNLOADS\COMMON7\IDE\EXTENSIONS\3WQGG22F.MQS\Starterkit\Extensions\ruby\snippets\loop { __ }.tmSnippet</d2p1:Key>
+      <d2p1:Value>2016-04-06T07:32:39.016432-05:00</d2p1:Value>
+    </d2p1:KeyValueOfstringdateTime>
+    <d2p1:KeyValueOfstringdateTime>
+      <d2p1:Key>C:\USERS\OWNER-PC\DOWNLOADS\COMMON7\IDE\EXTENSIONS\3WQGG22F.MQS\Starterkit\Extensions\ruby\snippets\path_from_here( __ ).tmSnippet</d2p1:Key>
+      <d2p1:Value>2016-04-06T07:32:39.0189387-05:00</d2p1:Value>
+    </d2p1:KeyValueOfstringdateTime>
+    <d2p1:KeyValueOfstringdateTime>
+      <d2p1:Key>C:\USERS\OWNER-PC\DOWNLOADS\COMMON7\IDE\EXTENSIONS\3WQGG22F.MQS\Starterkit\Extensions\ruby\snippets\randomize  (ran).plist</d2p1:Key>
+      <d2p1:Value>2016-04-06T07:32:39.0214454-05:00</d2p1:Value>
+    </d2p1:KeyValueOfstringdateTime>
+    <d2p1:KeyValueOfstringdateTime>
+      <d2p1:Key>C:\USERS\OWNER-PC\DOWNLOADS\COMMON7\IDE\EXTENSIONS\3WQGG22F.MQS\Starterkit\Extensions\ruby\snippets\require '..'  (req).plist</d2p1:Key>
+      <d2p1:Value>2016-04-06T07:32:39.0249922-05:00</d2p1:Value>
+    </d2p1:KeyValueOfstringdateTime>
+    <d2p1:KeyValueOfstringdateTime>
+      <d2p1:Key>C:\USERS\OWNER-PC\DOWNLOADS\COMMON7\IDE\EXTENSIONS\3WQGG22F.MQS\Starterkit\Extensions\ruby\snippets\require _tc_.._ ..  (ts).plist</d2p1:Key>
+      <d2p1:Value>2016-04-06T07:32:39.0274629-05:00</d2p1:Value>
+    </d2p1:KeyValueOfstringdateTime>
+    <d2p1:KeyValueOfstringdateTime>
+      <d2p1:Key>C:\USERS\OWNER-PC\DOWNLOADS\COMMON7\IDE\EXTENSIONS\3WQGG22F.MQS\Starterkit\Extensions\ruby\snippets\results_report(__) { __ }.tmSnippet</d2p1:Key>
+      <d2p1:Value>2016-04-06T07:32:39.0305073-05:00</d2p1:Value>
+    </d2p1:KeyValueOfstringdateTime>
+    <d2p1:KeyValueOfstringdateTime>
+      <d2p1:Key>C:\USERS\OWNER-PC\DOWNLOADS\COMMON7\IDE\EXTENSIONS\3WQGG22F.MQS\Starterkit\Extensions\ruby\snippets\singleton_class().tmSnippet</d2p1:Key>
+      <d2p1:Value>2016-04-06T07:32:39.0686545-05:00</d2p1:Value>
+    </d2p1:KeyValueOfstringdateTime>
+    <d2p1:KeyValueOfstringdateTime>
+      <d2p1:Key>C:\USERS\OWNER-PC\DOWNLOADS\COMMON7\IDE\EXTENSIONS\3WQGG22F.MQS\Starterkit\Extensions\ruby\snippets\unix_filter .. (uni).plist</d2p1:Key>
+      <d2p1:Value>2016-04-06T07:32:39.0721623-05:00</d2p1:Value>
+    </d2p1:KeyValueOfstringdateTime>
+    <d2p1:KeyValueOfstringdateTime>
+      <d2p1:Key>C:\USERS\OWNER-PC\DOWNLOADS\COMMON7\IDE\EXTENSIONS\3WQGG22F.MQS\Starterkit\Extensions\ruby\snippets\unless (unless).plist</d2p1:Key>
+      <d2p1:Value>2016-04-06T07:32:39.0751699-05:00</d2p1:Value>
+    </d2p1:KeyValueOfstringdateTime>
+    <d2p1:KeyValueOfstringdateTime>
+      <d2p1:Key>C:\USERS\OWNER-PC\DOWNLOADS\COMMON7\IDE\EXTENSIONS\3WQGG22F.MQS\Starterkit\Extensions\ruby\snippets\until ___ end.tmSnippet</d2p1:Key>
+      <d2p1:Value>2016-04-06T07:32:39.0777018-05:00</d2p1:Value>
+    </d2p1:KeyValueOfstringdateTime>
+    <d2p1:KeyValueOfstringdateTime>
+      <d2p1:Key>C:\USERS\OWNER-PC\DOWNLOADS\COMMON7\IDE\EXTENSIONS\3WQGG22F.MQS\Starterkit\Extensions\ruby\snippets\usage_if()  (usai).plist</d2p1:Key>
+      <d2p1:Value>2016-04-06T07:32:39.0806865-05:00</d2p1:Value>
+    </d2p1:KeyValueOfstringdateTime>
+    <d2p1:KeyValueOfstringdateTime>
+      <d2p1:Key>C:\USERS\OWNER-PC\DOWNLOADS\COMMON7\IDE\EXTENSIONS\3WQGG22F.MQS\Starterkit\Extensions\ruby\snippets\usage_unless()  (usau).plist</d2p1:Key>
+      <d2p1:Value>2016-04-06T07:32:39.0836929-05:00</d2p1:Value>
+    </d2p1:KeyValueOfstringdateTime>
+    <d2p1:KeyValueOfstringdateTime>
+      <d2p1:Key>C:\USERS\OWNER-PC\DOWNLOADS\COMMON7\IDE\EXTENSIONS\3WQGG22F.MQS\Starterkit\Extensions\ruby\snippets\when.plist</d2p1:Key>
+      <d2p1:Value>2016-04-06T07:32:39.0867017-05:00</d2p1:Value>
+    </d2p1:KeyValueOfstringdateTime>
+    <d2p1:KeyValueOfstringdateTime>
+      <d2p1:Key>C:\USERS\OWNER-PC\DOWNLOADS\COMMON7\IDE\EXTENSIONS\3WQGG22F.MQS\Starterkit\Extensions\ruby\snippets\while ___ end.tmSnippet</d2p1:Key>
+      <d2p1:Value>2016-04-06T07:32:39.0907112-05:00</d2p1:Value>
+    </d2p1:KeyValueOfstringdateTime>
+    <d2p1:KeyValueOfstringdateTime>
+      <d2p1:Key>C:\USERS\OWNER-PC\DOWNLOADS\COMMON7\IDE\EXTENSIONS\3WQGG22F.MQS\Starterkit\Extensions\ruby\snippets\__END__.tmSnippet</d2p1:Key>
+      <d2p1:Value>2016-04-06T07:32:39.0937204-05:00</d2p1:Value>
+    </d2p1:KeyValueOfstringdateTime>
+    <d2p1:KeyValueOfstringdateTime>
+      <d2p1:Key>C:\USERS\OWNER-PC\DOWNLOADS\COMMON7\IDE\EXTENSIONS\3WQGG22F.MQS\Starterkit\Extensions\shellscript\syntaxes\Shell-Unix-Bash.tmLanguage</d2p1:Key>
+      <d2p1:Value>2016-04-06T07:32:39.1123294-05:00</d2p1:Value>
+    </d2p1:KeyValueOfstringdateTime>
+    <d2p1:KeyValueOfstringdateTime>
+      <d2p1:Key>C:\USERS\OWNER-PC\DOWNLOADS\COMMON7\IDE\EXTENSIONS\3WQGG22F.MQS\Starterkit\Extensions\shellscript\snippets\case .. esac (case).plist</d2p1:Key>
+      <d2p1:Value>2016-04-06T07:32:39.1017429-05:00</d2p1:Value>
+    </d2p1:KeyValueOfstringdateTime>
+    <d2p1:KeyValueOfstringdateTime>
+      <d2p1:Key>C:\USERS\OWNER-PC\DOWNLOADS\COMMON7\IDE\EXTENSIONS\3WQGG22F.MQS\Starterkit\Extensions\shellscript\snippets\do … done.tmSnippet</d2p1:Key>
+      <d2p1:Value>2016-04-06T07:32:39.1048106-05:00</d2p1:Value>
+    </d2p1:KeyValueOfstringdateTime>
+    <d2p1:KeyValueOfstringdateTime>
+      <d2p1:Key>C:\USERS\OWNER-PC\DOWNLOADS\COMMON7\IDE\EXTENSIONS\3WQGG22F.MQS\Starterkit\Extensions\shellscript\snippets\for ... done (for).plist</d2p1:Key>
+      <d2p1:Value>2016-04-06T07:32:39.1078186-05:00</d2p1:Value>
+    </d2p1:KeyValueOfstringdateTime>
+    <d2p1:KeyValueOfstringdateTime>
+      <d2p1:Key>C:\USERS\OWNER-PC\DOWNLOADS\COMMON7\IDE\EXTENSIONS\3WQGG22F.MQS\Starterkit\Extensions\swift\syntaxes\Swift.tmLanguage</d2p1:Key>
+      <d2p1:Value>2016-04-06T07:32:39.1168422-05:00</d2p1:Value>
+    </d2p1:KeyValueOfstringdateTime>
+    <d2p1:KeyValueOfstringdateTime>
+      <d2p1:Key>C:\USERS\OWNER-PC\DOWNLOADS\COMMON7\IDE\EXTENSIONS\3WQGG22F.MQS\Starterkit\Extensions\yaml\syntaxes\YAML.plist</d2p1:Key>
+      <d2p1:Value>2016-04-06T07:32:39.124939-05:00</d2p1:Value>
+    </d2p1:KeyValueOfstringdateTime>
+  </TimestampCache>
+</Cache>
